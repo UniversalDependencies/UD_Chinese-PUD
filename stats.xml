@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>1000</sentences><tokens>21415</tokens><words>21415</words><fused>0</fused></total>
+  </size>
+  <lemmas unique="0" /><!--  -->
+  <forms unique="5477" /><!-- 的, ，, 。, 在, 了, 一, 是, 和, 年, 個, 他, 這, 為, 於, 中 -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">650</tag><!-- _ -->
+    <tag name="ADP">1288</tag><!-- _ -->
+    <tag name="ADV">1283</tag><!-- _ -->
+    <tag name="AUX">618</tag><!-- _ -->
+    <tag name="CCONJ">283</tag><!-- _ -->
+    <tag name="DET">355</tag><!-- _ -->
+    <tag name="NOUN">5410</tag><!-- _ -->
+    <tag name="NUM">873</tag><!-- _ -->
+    <tag name="PART">1881</tag><!-- _ -->
+    <tag name="PRON">710</tag><!-- _ -->
+    <tag name="PROPN">1361</tag><!-- _ -->
+    <tag name="PUNCT">2902</tag><!-- _ -->
+    <tag name="SCONJ">28</tag><!-- _ -->
+    <tag name="VERB">3467</tag><!-- _ -->
+    <tag name="X">306</tag><!-- _ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="13">
+    <feat name="Aspect" value="Perf" upos="PART">358</feat><!-- 了, 過, 瞭 -->
+    <feat name="Aspect" value="Prog" upos="PART">40</feat><!-- 著 -->
+    <feat name="Case" value="Gen" upos="PART">709</feat><!-- 的, 之 -->
+    <feat name="Foreign" value="Yes" upos="X">91</feat><!-- Anaya, Film, de, the, Amin, Antilles, Atkinson, Avery, Aviva, Bass -->
+    <feat name="Number" value="Plur" upos="NOUN,PRON">158</feat><!-- 他們, 我們, 人們, 它們, 你們, 她們, 牠們 -->
+    <feat name="NumType" value="Card" upos="NUM">873</feat><!-- 一, 兩, 很多, 三, 許多, 六, 多, 20, 10, 十 -->
+    <feat name="NumType" value="Ord" upos="ADJ">46</feat><!-- 第一, 第二, 第三, 第31, 第45, 第96, 第四 -->
+    <feat name="Person" value="1" upos="PRON">101</feat><!-- 我, 我們 -->
+    <feat name="Person" value="2" upos="PRON">20</feat><!-- 你, 您, 你們 -->
+    <feat name="Person" value="3" upos="PRON">422</feat><!-- 他, 他們, 她, 其, 它, 它們, 她們, 牠們 -->
+    <feat name="Polarity" value="Neg" upos="ADV">65</feat><!-- 不, 未, 勿 -->
+    <feat name="Voice" value="Cau" upos="ADP,AUX,VERB">129</feat><!-- 把, 讓, 使, 令, 將, 導致, 以, 以至, 使得, 任命 -->
+    <feat name="Voice" value="Pass" upos="ADP,AUX">101</feat><!-- 被 -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="44">
+    <dep name="acl">19</dep>
+    <dep name="acl:relcl">448</dep>
+    <dep name="advcl">516</dep>
+    <dep name="advmod">1332</dep>
+    <dep name="amod">420</dep>
+    <dep name="appos">248</dep>
+    <dep name="aux">686</dep>
+    <dep name="aux:pass">79</dep>
+    <dep name="case">1319</dep>
+    <dep name="case:loc">351</dep>
+    <dep name="cc">283</dep>
+    <dep name="ccomp">403</dep>
+    <dep name="clf">357</dep>
+    <dep name="compound">1777</dep>
+    <dep name="conj">383</dep>
+    <dep name="cop">251</dep>
+    <dep name="csubj">72</dep>
+    <dep name="dep">397</dep>
+    <dep name="det">338</dep>
+    <dep name="discourse">1</dep>
+    <dep name="discourse:sp">87</dep>
+    <dep name="dislocated">5</dep>
+    <dep name="fixed">1</dep>
+    <dep name="flat">91</dep>
+    <dep name="flat:name">142</dep>
+    <dep name="iobj">15</dep>
+    <dep name="mark">291</dep>
+    <dep name="mark:adv">22</dep>
+    <dep name="mark:prt">338</dep>
+    <dep name="mark:relcl">626</dep>
+    <dep name="nmod">702</dep>
+    <dep name="nsubj">1776</dep>
+    <dep name="nsubj:pass">70</dep>
+    <dep name="nummod">809</dep>
+    <dep name="obj">1526</dep>
+    <dep name="obl">578</dep>
+    <dep name="obl:agent">22</dep>
+    <dep name="obl:patient">39</dep>
+    <dep name="obl:tmod">214</dep>
+    <dep name="parataxis">2</dep>
+    <dep name="punct">2902</dep>
+    <dep name="root">1000</dep>
+    <dep name="vocative">1</dep>
+    <dep name="xcomp">476</dep>
+  </deps>
+</treebank>
