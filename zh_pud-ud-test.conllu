@@ -18257,7 +18257,7 @@
 7	的	_	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de
 8	兄弟	_	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=xiōngdì
 9	、	_	PUNCT	EC	_	13	punct	_	SpaceAfter=No|Translit=、
-10	歌手	_	NOUN	NN	_	13	conj	_	SpaceAfter=No|Translit=gēshǒu
+10	歌手	_	NOUN	NN	_	8	conj	_	SpaceAfter=No|Translit=gēshǒu
 11	兼	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No|Translit=jiān
 12	作曲家	_	VERB	VV	_	10	conj	_	SpaceAfter=No|Translit=zuòqūjiā
 13	吉姆	_	PROPN	NNP	_	8	conj	_	SpaceAfter=No|Translit=jímǔ
