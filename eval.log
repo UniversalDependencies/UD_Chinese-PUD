@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Chinese-PUD:
-commit bb01ebd7943a5d7220cce678e973c9e114e7413f
-Merge: 2e5ebaf 65012eb
+commit 09f045befc4c31600ee4486338b91a00e34d9208
+Merge: d0a0660 94698ec
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 21415 of 21415 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.12818322213467.
