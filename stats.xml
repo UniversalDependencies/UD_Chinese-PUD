@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>1000</sentences><tokens>21415</tokens><words>21415</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>1000</sentences><tokens>21415</tokens><words>21415</words><fused>0</fused></test>
   </size>
   <lemmas unique="0" /><!--  -->
   <forms unique="5477" /><!-- 的, ，, 。, 在, 了, 一, 是, 和, 年, 個, 他, 這, 為, 於, 中 -->
