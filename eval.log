@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Chinese-PUD:
-commit 09f045befc4c31600ee4486338b91a00e34d9208
-Merge: d0a0660 94698ec
+commit 63d34b271fb8be7aad863a33efb2f7ed3c1d7493
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 20:58:51 2019 +0200
 Size: counted 21415 of 21415 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.12818322213467.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,8 +23,20 @@ Udapi: found 5023 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 21415 words.
 Genres: found 2 out of 17 known.
 validate.py --lang zh --max-err=10 UD_Chinese-PUD/zh_pud-ud-test.conllu
-*** PASSED ***
-Validity: 1
+[Line 62 Sent n01001013 Node 16]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 92 Sent n01002017 Node 19]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
+[Line 101 Sent n01002017 Node 28]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
+[Line 105 Sent n01002017 Node 32]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
+[Line 172 Sent n01002042 Node 11]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+[Line 222 Sent n01003010 Node 15]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+[Line 232 Sent n01003010 Node 25]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
+[Line 283 Sent n01003013 Node 5]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
+[Line 298 Sent n01004009 Node 8]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
+...suppressing further errors regarding Syntax
+Syntax errors: 777
+*** FAILED *** with 777 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
@@ -33,6 +45,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.691891891891892) = 0.0532224532224532
-(TOTAL score=0.270051047181498) * (availability=1) * (validity=1) = 0.270051047181498
-STARS = 1.5
-UD_Chinese-PUD	0.270051047181498	1.5
+(TOTAL score=0.270051047181498) * (availability=1) * (validity=0.01) = 0.00270051047181498
+STARS = 0
+UD_Chinese-PUD	0.00270051047181498	0
