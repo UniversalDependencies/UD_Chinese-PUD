@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Chinese-PUD:
-commit 63d34b271fb8be7aad863a33efb2f7ed3c1d7493
+commit 662d8661c1f63f29946dc1e28e5aa5c0372fe284
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 10 20:58:51 2019 +0200
+Date:   Tue Nov 12 16:46:28 2019 +0100
 Size: counted 21415 of 21415 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.12818322213467.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,7 +19,7 @@ Features: 2969 out of 21415 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 5023 bugs.
+Udapi: found 5024 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 21415 words.
 Genres: found 2 out of 17 known.
 validate.py --lang zh --max-err=10 UD_Chinese-PUD/zh_pud-ud-test.conllu
