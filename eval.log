@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Chinese-PUD:
-commit 662d8661c1f63f29946dc1e28e5aa5c0372fe284
+commit a167f8a44e935f8d4f8c55eaf4157101bf72b3b1
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 12 16:46:28 2019 +0100
+Date:   Sun May 10 17:41:34 2020 +0200
 Size: counted 21415 of 21415 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.12818322213467.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -33,8 +33,8 @@ validate.py --lang zh --max-err=10 UD_Chinese-PUD/zh_pud-ud-test.conllu
 [Line 283 Sent n01003013 Node 5]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
 [Line 298 Sent n01004009 Node 8]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
 ...suppressing further errors regarding Syntax
-Syntax errors: 777
-*** FAILED *** with 777 errors
+Syntax errors: 776
+*** FAILED *** with 776 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
