@@ -36,6 +36,8 @@ employ ten-fold cross-validation.
 
 # Changelog
 
+* 2021-05-15 v2.8
+  * Changed mark:relcl to mark:rel (as in the other Chinese treebanks).
 * 2017-11-15 v2.1
   * First official release after it was used as a surprise dataset in the
     CoNLL 2017 shared task.
