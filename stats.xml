@@ -78,7 +78,7 @@
     <dep name="mark">291</dep>
     <dep name="mark:adv">22</dep>
     <dep name="mark:prt">338</dep>
-    <dep name="mark:relcl">626</dep>
+    <dep name="mark:rel">626</dep>
     <dep name="nmod">702</dep>
     <dep name="nsubj">1776</dep>
     <dep name="nsubj:pass">70</dep>
