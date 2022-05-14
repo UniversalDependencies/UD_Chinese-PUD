@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Chinese-PUD:
-commit 5ff1bc28e2dc7b86b412d504086a786244a53da5
+commit 631b9c0a7b67d979b79ef24c51acf9c53b2c79d6
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 13 08:55:52 2021 +0200
+Date:   Wed Nov 3 15:59:09 2021 +0100
 Size: counted 21415 of 21415 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.12818322213467.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -26,17 +26,17 @@ Udapi: worst expected case (threshold) is one bug per 10 words. There are 21415 
 Genres: found 2 out of 17 known.
 validate.py --lang zh --max-err=10 UD_Chinese-PUD/zh_pud-ud-test.conllu
 [Line 62 Sent n01001013 Node 16]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
-[Line 92 Sent n01002017 Node 19]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
-[Line 101 Sent n01002017 Node 28]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
-[Line 105 Sent n01002017 Node 32]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
 [Line 172 Sent n01002042 Node 11]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
 [Line 222 Sent n01003010 Node 15]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
-[Line 232 Sent n01003010 Node 25]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
-[Line 283 Sent n01003013 Node 5]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
-[Line 298 Sent n01004009 Node 8]: [L3 Syntax rel-upos-mark] 'mark' should not be 'VERB'
+[Line 444 Sent n01006011 Node 14]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+[Line 623 Sent n01011011 Node 16]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+[Line 653 Sent n01011017 Node 12]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 664 Sent n01012003 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 704 Sent n01013005 Node 18]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
+[Line 727 Sent n01014003 Node 16]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'PART'
 ...suppressing further errors regarding Syntax
-Syntax errors: 776
-*** FAILED *** with 776 errors
+Syntax errors: 536
+*** FAILED *** with 536 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.24) = 0.0184615384615385
