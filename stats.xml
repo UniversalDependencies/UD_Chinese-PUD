@@ -52,7 +52,7 @@
     <dep name="acl">19</dep>
     <dep name="acl:relcl">448</dep>
     <dep name="advcl">516</dep>
-    <dep name="advmod">1332</dep>
+    <dep name="advmod">1225</dep>
     <dep name="amod">420</dep>
     <dep name="appos">248</dep>
     <dep name="aux">686</dep>
@@ -84,7 +84,7 @@
     <dep name="nsubj:pass">70</dep>
     <dep name="nummod">809</dep>
     <dep name="obj">1526</dep>
-    <dep name="obl">578</dep>
+    <dep name="obl">685</dep>
     <dep name="obl:agent">22</dep>
     <dep name="obl:patient">39</dep>
     <dep name="obl:tmod">214</dep>
