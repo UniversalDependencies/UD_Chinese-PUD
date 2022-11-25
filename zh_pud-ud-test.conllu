@@ -286,13 +286,13 @@
 # text = 也許著裝要求過於沉悶。
 # translit = yěxǔzhezhuāngyàoqiúguòyúchénmèn.
 # text_en = Maybe the dress code was too stuffy.
-1	也許	也許	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=yěxǔ|LTranslit=yěxǔ
+1	也許	也許	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=yěxǔ|LTranslit=yěxǔ
 2	著裝	著裝	NOUN	NN	_	3	compound	_	SpaceAfter=No|Translit=zhezhuāng|LTranslit=zhezhuāng
-3	要求	要求	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=yàoqiú|LTranslit=yàoqiú
-4	過	過	AUX	VV	_	6	cop	_	SpaceAfter=No|Translit=guò|LTranslit=guò
-5	於	於	VERB	VV	_	6	mark:prt	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-6	沉悶	沉悶	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=chénmèn|LTranslit=chénmèn
-7	。	。	PUNCT	.	_	6	punct	_	Translit=.|LTranslit=.
+3	要求	要求	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=yàoqiú|LTranslit=yàoqiú
+4	過	過	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=guò|LTranslit=guò
+5	於	於	VERB	VV	_	4	mark:prt	_	SpaceAfter=No|Translit=yú|LTranslit=yú
+6	沉悶	沉悶	ADJ	JJ	_	4	xcomp	_	SpaceAfter=No|Translit=chénmèn|LTranslit=chénmèn
+7	。	。	PUNCT	.	_	4	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01004
 # sent_id = n01004009
