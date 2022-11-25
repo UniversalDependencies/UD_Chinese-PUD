@@ -1752,8 +1752,8 @@
 3	以前	以前	NOUN	NN	_	5	obl:tmod	_	SpaceAfter=No|Translit=yǐqián|LTranslit=yǐqián
 4	曾	曾	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 5	選用	選用	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xuǎnyòng|LTranslit=xuǎnyòng
-6	非	非	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
-7	常規	常規	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=chángguī|LTranslit=chángguī
+6	非	非	VERB	VC	_	8	amod	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
+7	常規	常規	ADJ	JJ	_	6	xcomp	_	SpaceAfter=No|Translit=chángguī|LTranslit=chángguī
 8	處罰	處罰	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=chùfá|LTranslit=chùfá
 9	。	。	PUNCT	.	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -18352,8 +18352,8 @@
 15	歐洲	歐洲	PROPN	NNP	_	16	compound	_	SpaceAfter=No|Translit='ōuzhōu|LTranslit='ōuzhōu
 16	傳統	傳統	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=chuántǒng|LTranslit=chuántǒng
 17	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-18	非	非	AUX	VC	_	19	cop	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
-19	白人	白人	NOUN	NN	_	20	amod	_	SpaceAfter=No|Translit=báirén|LTranslit=báirén
+18	非	非	VERB	VC	_	20	amod	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
+19	白人	白人	NOUN	NN	_	18	xcomp	_	SpaceAfter=No|Translit=báirén|LTranslit=báirén
 20	公主	公主	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=gōngzhǔ|LTranslit=gōngzhǔ
 21	。	。	PUNCT	.	_	7	punct	_	Translit=.|LTranslit=.
 
@@ -21788,8 +21788,8 @@
 22	會	會	AUX	MD	_	34	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 23	在	在	ADP	IN	_	32	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 24	以	以	VERB	VV	_	32	acl:relcl	_	SpaceAfter=No|Translit=yǐ|LTranslit=yǐ
-25	非	非	AUX	VC	_	26	cop	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
-26	煤	煤	NOUN	NN	_	27	amod	_	SpaceAfter=No|Translit=méi|LTranslit=méi
+25	非	非	VERB	VC	_	27	amod	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
+26	煤	煤	NOUN	NN	_	25	xcomp	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 27	能源	能源	NOUN	NN	_	29	nsubj	_	SpaceAfter=No|Translit=néngyuán|LTranslit=néngyuán
 28	為	為	AUX	VC	_	29	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 29	基礎	基礎	NOUN	NN	_	24	ccomp	_	SpaceAfter=No|Translit=jīchǔ|LTranslit=jīchǔ
@@ -26540,9 +26540,9 @@
 5	兩	兩	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
 6	人	人	NOUN	NN	_	4	appos	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 7	之間	之間	ADP	IN	_	4	case:loc	_	SpaceAfter=No|Translit=zhījiān|LTranslit=zhījiān
-8	非	非	AUX	VC	_	9	cop	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
-9	正式	正式	ADJ	JJ	_	11	acl:relcl	_	SpaceAfter=No|Translit=zhèngshì|LTranslit=zhèngshì
-10	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+8	非	非	VERB	VC	_	11	acl:relcl	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
+9	正式	正式	ADJ	JJ	_	8	xcomp	_	SpaceAfter=No|Translit=zhèngshì|LTranslit=zhèngshì
+10	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	合作	合作	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=hézuò|LTranslit=hézuò
 12	導致	導致	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=dǎozhì|LTranslit=dǎozhì
 13	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
