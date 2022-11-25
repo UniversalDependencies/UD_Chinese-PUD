@@ -7279,7 +7279,7 @@
 8	資產	_	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=zīchǎn
 9	一樣	_	ADJ	JJ	_	18	advcl	_	SpaceAfter=No|Translit=yīyàng
 10	從	_	ADP	IN	_	13	mark	_	SpaceAfter=No|Translit=cóng
-11	英	_	PROPN	NNP	_	12	nummod	_	SpaceAfter=No|Translit=yīng
+11	英	_	PROPN	NNP	_	12	nmod	_	SpaceAfter=No|Translit=yīng
 12	鎊	_	PART	SFN	_	13	compound	_	Proper=True|SpaceAfter=No|Translit=鎊
 13	貶值	_	VERB	VV	_	18	obl	_	SpaceAfter=No|Translit=貶zhí
 14	這	_	DET	DT	_	13	det	_	SpaceAfter=No|Translit=zhè
