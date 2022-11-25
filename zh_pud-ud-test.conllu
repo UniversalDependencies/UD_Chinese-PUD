@@ -792,12 +792,12 @@
 # sent_id = n01015036
 # text = 而直至2007年，觀其（也許還有奈特利的）常見程度，其是前50名常用名字之一，名為凱拉的嬰兒是名為奇爾拉的嬰兒的三倍多。
 # text_en = And by 2007, at the height of its popularity (and, perhaps, Knightley's) it was a top 50 name, with three times more babies named Keira than Kiera.
-1	而	_	ADV	RB	_	41	advmod	_	SpaceAfter=No|Translit='ér
+1	而	_	ADV	RB	_	42	advmod	_	SpaceAfter=No|Translit='ér
 2	直至	_	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=zhízhì
 3	2007	_	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=2007
-4	年	_	NOUN	NNB	_	41	nmod	_	SpaceAfter=No|Translit=nián
+4	年	_	NOUN	NNB	_	42	nmod	_	SpaceAfter=No|Translit=nián
 5	，	_	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=，
-6	觀	_	VERB	VV	_	41	dep	_	SpaceAfter=No|Translit=guān
+6	觀	_	VERB	VV	_	42	dep	_	SpaceAfter=No|Translit=guān
 7	其	_	PRON	PRP	Person=3	16	compound	_	SpaceAfter=No|Translit=qí
 8	（	_	PUNCT	(	_	11	punct	_	SpaceAfter=No|Translit=（
 9	也許	_	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=yěxǔ
@@ -823,8 +823,8 @@
 29	為	_	AUX	VC	_	30	cop	_	SpaceAfter=No|Translit=wèi
 30	凱拉	_	PROPN	NNP	_	32	acl:relcl	_	SpaceAfter=No|Translit=凱lā
 31	的	_	PART	DEC	_	30	mark:rel	_	SpaceAfter=No|Translit=de
-32	嬰兒	_	NOUN	NN	_	41	nsubj	_	SpaceAfter=No|Translit=yīngr
-33	是	_	AUX	VC	_	41	cop	_	SpaceAfter=No|Translit=shì
+32	嬰兒	_	NOUN	NN	_	42	nsubj	_	SpaceAfter=No|Translit=yīngr
+33	是	_	AUX	VC	_	42	cop	_	SpaceAfter=No|Translit=shì
 34	名	_	NOUN	NN	_	36	nsubj	_	SpaceAfter=No|Translit=míng
 35	為	_	AUX	VC	_	36	cop	_	SpaceAfter=No|Translit=wèi
 36	奇爾拉	_	PROPN	NNP	_	38	acl:relcl	_	SpaceAfter=No|Translit=qí'ěrlā
@@ -832,9 +832,9 @@
 38	嬰兒	_	NOUN	NN	_	41	nmod	_	SpaceAfter=No|Translit=yīngr
 39	的	_	PART	DEC	Case=Gen	38	case	_	SpaceAfter=No|Translit=de
 40	三	_	NUM	CD	NumType=Card	41	nummod	_	SpaceAfter=No|Translit=sān
-41	倍	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=bèi
-42	多	_	NUM	CD	NumType=Card	41	case:loc	_	SpaceAfter=No|Translit=duō
-43	。	_	PUNCT	.	_	41	punct	_	Translit=。
+41	倍	_	NOUN	NNB	_	42	nmod	_	SpaceAfter=No|Translit=bèi
+42	多	_	NUM	CD	NumType=Card	0	root	_	SpaceAfter=No|Translit=duō
+43	。	_	PUNCT	.	_	42	punct	_	Translit=。
 
 # newdoc id = n01016
 # sent_id = n01016014
@@ -17469,7 +17469,7 @@
 30	為期	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wèiqī
 31	一	_	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No|Translit=yī
 32	年	_	NOUN	NNB	_	30	obj	_	SpaceAfter=No|Translit=nián
-33	半	_	NUM	CD	NumType=Card	32	case:loc	_	SpaceAfter=No|Translit=bàn
+33	半	_	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No|Translit=bàn
 34	。	_	PUNCT	.	_	30	punct	_	Translit=。
 
 # newdoc id = w01115
@@ -22126,7 +22126,7 @@
 18	1335	_	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=1335
 19	歐	_	PROPN	NNP	_	20	compound	_	SpaceAfter=No|Translit='ōu
 20	元	_	NOUN	NNB	_	29	dep	_	Proper=True|SpaceAfter=No|Translit=yuán
-21	每升	_	DET	DT	_	20	case:loc	_	SpaceAfter=No|Translit=měishēng
+21	每升	_	NOUN	NN	_	20	nmod	_	SpaceAfter=No|Translit=měishēng
 22	，	_	PUNCT	,	_	20	punct	_	SpaceAfter=No|Translit=，
 23	歐元區	_	PROPN	NNP	_	25	compound	_	SpaceAfter=No|Translit='ōuyuánqū
 24	平均	_	ADJ	JJ	_	25	amod	_	SpaceAfter=No|Translit=píngjūn
@@ -22135,7 +22135,7 @@
 27	1165	_	NUM	CD	NumType=Card	29	nummod	_	SpaceAfter=No|Translit=1165
 28	歐	_	PROPN	NNP	_	29	compound	_	SpaceAfter=No|Translit='ōu
 29	元	_	NOUN	NNB	_	13	ccomp	_	Proper=True|SpaceAfter=No|Translit=yuán
-30	每升	_	DET	DT	_	29	case:loc	_	SpaceAfter=No|Translit=měishēng
+30	每升	_	NOUN	NN	_	29	nmod	_	SpaceAfter=No|Translit=měishēng
 31	。	_	PUNCT	.	_	13	punct	_	Translit=。
 
 # newdoc id = n04006
@@ -22147,7 +22147,7 @@
 3	1365	_	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=1365
 4	歐	_	PROPN	NNP	_	5	compound	_	SpaceAfter=No|Translit='ōu
 5	元	_	NOUN	NNB	_	12	dep	_	Proper=True|SpaceAfter=No|Translit=yuán
-6	每升	_	DET	DT	_	5	case:loc	_	SpaceAfter=No|Translit=měishēng
+6	每升	_	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=měishēng
 7	，	_	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=，
 8	這	_	DET	DT	_	9	det	_	SpaceAfter=No|Translit=zhè
 9	個	_	NOUN	NNB	_	10	clf	_	SpaceAfter=No|Translit=gè
