@@ -18,12 +18,12 @@
     <tag name="ADJ">650</tag><!-- _ -->
     <tag name="ADP">1288</tag><!-- _ -->
     <tag name="ADV">1283</tag><!-- _ -->
-    <tag name="AUX">618</tag><!-- _ -->
+    <tag name="AUX">1016</tag><!-- _ -->
     <tag name="CCONJ">283</tag><!-- _ -->
     <tag name="DET">355</tag><!-- _ -->
     <tag name="NOUN">5410</tag><!-- _ -->
     <tag name="NUM">873</tag><!-- _ -->
-    <tag name="PART">1881</tag><!-- _ -->
+    <tag name="PART">1483</tag><!-- _ -->
     <tag name="PRON">710</tag><!-- _ -->
     <tag name="PROPN">1361</tag><!-- _ -->
     <tag name="PUNCT">2902</tag><!-- _ -->
@@ -33,8 +33,8 @@
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="13">
-    <feat name="Aspect" value="Perf" upos="PART">358</feat><!-- 了, 過, 瞭 -->
-    <feat name="Aspect" value="Prog" upos="PART">40</feat><!-- 著 -->
+    <feat name="Aspect" value="Perf" upos="AUX">358</feat><!-- 了, 過, 瞭 -->
+    <feat name="Aspect" value="Prog" upos="AUX">40</feat><!-- 著 -->
     <feat name="Case" value="Gen" upos="PART">709</feat><!-- 的, 之 -->
     <feat name="Foreign" value="Yes" upos="X">91</feat><!-- Anaya, Film, de, the, Amin, Antilles, Atkinson, Avery, Aviva, Bass -->
     <feat name="Number" value="Plur" upos="NOUN,PRON">158</feat><!-- 他們, 我們, 人們, 它們, 你們, 她們, 牠們 -->

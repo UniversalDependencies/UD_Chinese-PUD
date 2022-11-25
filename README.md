@@ -38,6 +38,7 @@ employ ten-fold cross-validation.
 
 * 2023-05-15 v2.12
   * Fixed: PUNCT nodes must be attached via punct relations.
+  * Fixed: Auxiliary must be tagged AUX.
 * 2021-05-15 v2.8
   * Changed mark:relcl to mark:rel (as in the other Chinese treebanks).
 * 2017-11-15 v2.1
