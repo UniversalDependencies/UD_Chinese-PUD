@@ -58,16 +58,16 @@
 10	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	人	人	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 12	而	而	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit='ér|LTranslit='ér
-13	言	言	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=yán|LTranslit=yán
+13	言	言	VERB	VV	_	19	advcl	_	SpaceAfter=No|Translit=yán|LTranslit=yán
 14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 15	這	這	DET	DT	_	16	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-16	次	次	NOUN	NNB	_	21	obl	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+16	次	次	NOUN	NNB	_	19	obl	_	SpaceAfter=No|Translit=cì|LTranslit=cì
 17	與	與	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
-18	以往	以往	NOUN	NN	_	21	obl	_	SpaceAfter=No|Translit=yǐwǎng|LTranslit=yǐwǎng
-19	有	有	AUX	VV	_	21	cop	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-20	所	所	ADV	RB	_	21	mark:prt	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
-21	不同	不同	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
-22	。	。	PUNCT	.	_	21	punct	_	Translit=.|LTranslit=.
+18	以往	以往	NOUN	NN	_	19	obl	_	SpaceAfter=No|Translit=yǐwǎng|LTranslit=yǐwǎng
+19	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
+20	所	所	ADV	RB	_	19	mark:prt	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
+21	不同	不同	ADJ	JJ	_	19	xcomp	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
+22	。	。	PUNCT	.	_	19	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01002
 # sent_id = n01002017
@@ -8502,11 +8502,11 @@
 6	績效	績效	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=jīxiào|LTranslit=jīxiào
 7	並	並	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 8	不是	不是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=bùshì|LTranslit=bùshì
-9	靠	靠	ADP	IN	_	13	mark	_	SpaceAfter=No|Translit=kào|LTranslit=kào
-10	我們	我	PRON	PRP	Number=Plur|Person=1	13	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
-11	有	有	AUX	VV	_	13	cop	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-12	多	多	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
-13	安全	安全	ADJ	JJ	_	23	obl	_	SpaceAfter=No|Translit='ānquán|LTranslit='ānquán
+9	靠	靠	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=kào|LTranslit=kào
+10	我們	我	PRON	PRP	Number=Plur|Person=1	11	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
+11	有	有	VERB	VV	_	23	obl	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
+12	多	多	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=duō|LTranslit=duō
+13	安全	安全	ADJ	JJ	_	11	xcomp	_	SpaceAfter=No|Translit='ānquán|LTranslit='ānquán
 14	和	和	CCONJ	CC	_	15	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 15	遵守	遵守	VERB	VV	_	13	conj	_	SpaceAfter=No|Translit=zūnshǒu|LTranslit=zūnshǒu
 16	了	了	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -14768,13 +14768,13 @@
 2	華人	華人	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=huárén|LTranslit=huárén
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	農曆	農曆	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=nóng曆|LTranslit=nóng曆
-5	春節	春節	NOUN	NN	_	11	nsubj	_	Proper=True|SpaceAfter=No|Translit=chūnjié|LTranslit=chūnjié
+5	春節	春節	NOUN	NN	_	10	nsubj	_	Proper=True|SpaceAfter=No|Translit=chūnjié|LTranslit=chūnjié
 6	和	和	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 7	其他	其他	DET	DT	_	8	det	_	SpaceAfter=No|Translit=qítā|LTranslit=qítā
-8	節日	節日	NOUN	NN	_	11	obl	_	SpaceAfter=No|Translit=jiérì|LTranslit=jiérì
-9	各	各	DET	DT	_	11	obl	_	SpaceAfter=No|Translit=gè|LTranslit=gè
-10	有	有	AUX	VV	_	11	cop	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-11	不同	不同	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
+8	節日	節日	NOUN	NN	_	10	obl	_	SpaceAfter=No|Translit=jiérì|LTranslit=jiérì
+9	各	各	DET	DT	_	10	obl	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+10	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
+11	不同	不同	ADJ	JJ	_	10	xcomp	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
 12	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 13	因為	因為	ADP	IN	_	16	mark	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 14	這些	這些	DET	DT	_	15	det	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
@@ -14786,7 +14786,7 @@
 20	來	來	ADV	RB	_	21	mark:prt	_	SpaceAfter=No|Translit=lái|LTranslit=lái
 21	計算	計算	VERB	VV	_	16	xcomp	_	SpaceAfter=No|Translit=jìsuàn|LTranslit=jìsuàn
 22	的	的	PART	UH	_	16	discourse:sp	_	SpaceAfter=No|Translit=de|LTranslit=de
-23	。	。	PUNCT	.	_	11	punct	_	Translit=.|LTranslit=.
+23	。	。	PUNCT	.	_	10	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = w01067
 # sent_id = w01067032
