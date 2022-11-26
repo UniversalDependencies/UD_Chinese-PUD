@@ -18700,11 +18700,11 @@
 8	西部	西部	NOUN	NN	_	5	appos	_	Proper=True|SpaceAfter=No|Translit=xibù|LTranslit=xibù
 9	》	》	PUNCT	)	_	8	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
 10	是	是	AUX	VC	_	18	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-11	她	她	PRON	PRP	Person=3	14	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
-12	賣	賣	AUX	VV	_	14	cop	_	SpaceAfter=No|Translit=mài|LTranslit=mài
-13	得	得	PART	DEV	_	14	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
-14	最好	最好	ADJ	JJ	_	16	acl:relcl	_	SpaceAfter=No|Translit=zuìhǎo|LTranslit=zuìhǎo
-15	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+11	她	她	PRON	PRP	Person=3	12	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
+12	賣	賣	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No|Translit=mài|LTranslit=mài
+13	得	得	PART	DEV	_	12	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
+14	最好	最好	ADJ	JJ	_	12	xcomp	_	SpaceAfter=No|Translit=zuìhǎo|LTranslit=zuìhǎo
+15	的	的	PART	DEC	_	12	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	專輯	專輯	NOUN	NN	_	18	nmod	_	SpaceAfter=No|Translit=zhuānji|LTranslit=zhuānji
 17	之	之	PART	DEC	Case=Gen	16	case	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
 18	一	一	NUM	CD	NumType=Card	0	root	_	SpaceAfter=No|Translit=yī|LTranslit=yī
