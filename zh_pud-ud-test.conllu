@@ -10008,25 +10008,25 @@
 # text = 埋在100米（328英尺）深的平壤鐵路是世界上埋的最深的交通系統之一。
 # translit = máizài100mǐ(328yīngchǐ)shēndepíngrǎngtiělùshìshìjièshàngmáidezuìshēndejiāotōngxìtǒngzhīyī.
 # text_en = Buried 100 meters (328 feet) underground, the Pyongyang Metro is one of the deepest commuter systems in the world.
-1	埋	埋	AUX	VV	_	9	cop	_	SpaceAfter=No|Translit=mái|LTranslit=mái
-2	在	在	VERB	VV	_	9	mark:prt	_	SpaceAfter=No|Translit=zài|LTranslit=zài
+1	埋	埋	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=mái|LTranslit=mái
+2	在	在	VERB	VV	_	1	mark:prt	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 3	100	100	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=100|LTranslit=100
-4	米	米	NOUN	NNB	_	9	obl	_	SpaceAfter=No|Translit=mǐ|LTranslit=mǐ
+4	米	米	NOUN	NNB	_	1	obl	_	SpaceAfter=No|Translit=mǐ|LTranslit=mǐ
 5	（	（	PUNCT	(	_	7	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 6	328	328	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=328|LTranslit=328
 7	英尺	英尺	NOUN	NNB	_	4	appos	_	SpaceAfter=No|Translit=yīngchǐ|LTranslit=yīngchǐ
 8	）	）	PUNCT	)	_	7	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
-9	深	深	ADJ	JJ	_	12	acl:relcl	_	SpaceAfter=No|Translit=shēn|LTranslit=shēn
-10	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+9	深	深	ADJ	JJ	_	1	xcomp	_	SpaceAfter=No|Translit=shēn|LTranslit=shēn
+10	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	平壤	平壤	PROPN	NNP	_	12	compound	_	SpaceAfter=No|Translit=píngrǎng|LTranslit=píngrǎng
 12	鐵路	鐵路	NOUN	NN	_	23	nsubj	_	Proper=True|SpaceAfter=No|Translit=tiělù|LTranslit=tiělù
 13	是	是	AUX	VC	_	23	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-14	世界	世界	NOUN	NN	_	18	obl	_	SpaceAfter=No|Translit=shìjiè|LTranslit=shìjiè
+14	世界	世界	NOUN	NN	_	16	obl	_	SpaceAfter=No|Translit=shìjiè|LTranslit=shìjiè
 15	上	上	ADP	IN	_	14	case:loc	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
-16	埋	埋	AUX	VV	_	18	cop	_	SpaceAfter=No|Translit=mái|LTranslit=mái
-17	的	的	PART	DEV	_	18	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
-18	最深	最深	ADJ	JJ	_	21	acl:relcl	_	SpaceAfter=No|Translit=zuìshēn|LTranslit=zuìshēn
-19	的	的	PART	DEC	_	18	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+16	埋	埋	VERB	VV	_	21	acl:relcl	_	SpaceAfter=No|Translit=mái|LTranslit=mái
+17	的	的	PART	DEV	_	16	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
+18	最深	最深	ADJ	JJ	_	16	xcomp	_	SpaceAfter=No|Translit=zuìshēn|LTranslit=zuìshēn
+19	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 20	交通	交通	NOUN	NN	_	21	compound	_	SpaceAfter=No|Translit=jiāotōng|LTranslit=jiāotōng
 21	系統	系統	NOUN	NN	_	23	nmod	_	SpaceAfter=No|Translit=xìtǒng|LTranslit=xìtǒng
 22	之	之	PART	DEC	Case=Gen	21	case	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
