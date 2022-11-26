@@ -18,7 +18,7 @@
     <tag name="ADJ">650</tag><!-- 第一, 一些, 一樣, 不同, 第二, 重要, 新, 主要, 多, 最高 -->
     <tag name="ADP">1288</tag><!-- 在, 中, 上, 對, 從, 於, 與, 時, 後, 為 -->
     <tag name="ADV">1283</tag><!-- 並, 也, 但, 不, 就, 而, 但是, 還, 都, 來 -->
-    <tag name="AUX">980</tag><!-- 了, 是, 被, 會, 著, 能, 可以, 為, 可能, 要 -->
+    <tag name="AUX">978</tag><!-- 了, 是, 被, 會, 著, 能, 可以, 為, 可能, 要 -->
     <tag name="CCONJ">283</tag><!-- 和, 以及, 及, 或, 至, 與, 到, 或者, 而且, 還是 -->
     <tag name="DET">352</tag><!-- 這, 該, 這些, 其他, 那, 所有, 另, 任何, 此, 整個 -->
     <tag name="NOUN">5413</tag><!-- 年, 個, 人, 月, 次, 公司, 世紀, 地區, 政府, 工作 -->
@@ -28,7 +28,7 @@
     <tag name="PROPN">1361</tag><!-- 美國, 英國, 中國, 德國, 歐, 法國, 歐洲, 希臘, 特朗普, 地中海 -->
     <tag name="PUNCT">2902</tag><!-- ，, 。, （, ）, ·, 、, ”, “, 《, 》 -->
     <tag name="SCONJ">28</tag><!-- 的話, 雖然, 儘管, 無論, 不管, 不論, 即使, 要么, 一旦, 若 -->
-    <tag name="VERB">3503</tag><!-- 在, 有, 於, 是, 為, 說, 沒有, 開始, 來, 到 -->
+    <tag name="VERB">3505</tag><!-- 在, 有, 於, 是, 為, 說, 沒有, 開始, 來, 到 -->
     <tag name="X">306</tag><!-- BBC, CNN, the, Martin, Anaya, Andy, B.C., Barrosos, Catalano, DNA -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -64,7 +64,7 @@
     <dep name="clf">357</dep>
     <dep name="compound">1777</dep>
     <dep name="conj">383</dep>
-    <dep name="cop">215</dep>
+    <dep name="cop">213</dep>
     <dep name="csubj">72</dep>
     <dep name="dep">397</dep>
     <dep name="det">338</dep>
@@ -92,6 +92,6 @@
     <dep name="punct">2902</dep>
     <dep name="root">1000</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">512</dep>
+    <dep name="xcomp">514</dep>
   </deps>
 </treebank>

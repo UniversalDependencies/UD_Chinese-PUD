@@ -8473,21 +8473,21 @@
 # translit = liǎngniánhòu,zàixiānggǎnggāoděngfǎyuànshàng,朱婷biǎoxiàndeshífēnzhèndìng.
 # text_en = In Hong Kong's High Court, two years later, Jutting appeared largely composed.
 1	兩	兩	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
-2	年	年	NOUN	NNB	_	15	obl:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+2	年	年	NOUN	NNB	_	12	obl:tmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 3	後	後	ADP	IN	_	2	case:loc	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
 4	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-5	在	在	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
+5	在	在	VERB	VV	_	12	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 6	香港	香港	PROPN	NNP	_	8	compound	_	SpaceAfter=No|Translit=xiānggǎng|LTranslit=xiānggǎng
 7	高等	高等	ADJ	JJ	_	8	amod	_	Proper=True|SpaceAfter=No|Translit=gāoděng|LTranslit=gāoděng
 8	法院	法院	NOUN	NN	_	5	obj	_	Proper=True|SpaceAfter=No|Translit=fǎyuàn|LTranslit=fǎyuàn
 9	上	上	ADP	IN	_	8	case:loc	_	SpaceAfter=No|Translit=shàng|LTranslit=shàng
 10	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-11	朱婷	朱婷	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=朱婷|LTranslit=朱婷
-12	表現	表現	AUX	VV	_	15	cop	_	SpaceAfter=No|Translit=biǎoxiàn|LTranslit=biǎoxiàn
-13	得	得	PART	DEV	_	15	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
-14	十分	十分	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=shífēn|LTranslit=shífēn
-15	鎮定	鎮定	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=zhèndìng|LTranslit=zhèndìng
-16	。	。	PUNCT	.	_	15	punct	_	Translit=.|LTranslit=.
+11	朱婷	朱婷	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=朱婷|LTranslit=朱婷
+12	表現	表現	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=biǎoxiàn|LTranslit=biǎoxiàn
+13	得	得	PART	DEV	_	12	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
+14	十分	十分	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=shífēn|LTranslit=shífēn
+15	鎮定	鎮定	ADJ	JJ	_	12	xcomp	_	SpaceAfter=No|Translit=zhèndìng|LTranslit=zhèndìng
+16	。	。	PUNCT	.	_	12	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01128
 # sent_id = n01128017
@@ -16154,11 +16154,11 @@
 2	在	在	ADP	IN	_	5	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 3	古巴	古巴	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=gǔba|LTranslit=gǔba
 4	的	的	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-5	戰鬥	戰鬥	NOUN	NN	_	8	obl	_	SpaceAfter=No|Translit=zhàndòu|LTranslit=zhàndòu
+5	戰鬥	戰鬥	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=zhàndòu|LTranslit=zhàndòu
 6	中	中	ADP	IN	_	5	case:loc	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
-7	表現	表現	AUX	VV	_	8	cop	_	SpaceAfter=No|Translit=biǎoxiàn|LTranslit=biǎoxiàn
-8	優秀	優秀	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=yōuxiù|LTranslit=yōuxiù
-9	。	。	PUNCT	.	_	8	punct	_	Translit=.|LTranslit=.
+7	表現	表現	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=biǎoxiàn|LTranslit=biǎoxiàn
+8	優秀	優秀	ADJ	JJ	_	7	xcomp	_	SpaceAfter=No|Translit=yōuxiù|LTranslit=yōuxiù
+9	。	。	PUNCT	.	_	7	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = w01085
 # sent_id = w01085005
