@@ -23895,8 +23895,8 @@
 4	西班牙	西班牙	PROPN	NNP	_	5	compound	_	SpaceAfter=No|Translit=xibānyá|LTranslit=xibānyá
 5	世界報	世界報	NOUN	NN	_	2	obj	_	Proper=True|SpaceAfter=No|Translit=shìjièbào|LTranslit=shìjièbào
 6	》	》	PUNCT	)	_	5	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
-7	：	：	PUNCT	:	_	22	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
-8	“	“	PUNCT	``	_	22	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
+7	：	：	PUNCT	:	_	21	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
+8	“	“	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 9	一定	一定	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=yīdìng|LTranslit=yīdìng
 10	會	會	AUX	MD	_	11	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 11	有	有	VERB	VV	_	22	dep	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
@@ -23906,14 +23906,14 @@
 15	活動	活動	NOUN	NN	_	12	conj	_	SpaceAfter=No|Translit=huódòng|LTranslit=huódòng
 16	的	的	PART	UH	_	11	discourse:sp	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-18	這些	這些	DET	DT	_	22	nsubj	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
-19	都	都	ADV	RB	_	22	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-20	已經	已經	ADV	RB	_	22	advmod	_	SpaceAfter=No|Translit=yǐjīng|LTranslit=yǐjīng
-21	計劃	計劃	AUX	VV	_	22	cop	_	SpaceAfter=No|Translit=jìhuà|LTranslit=jìhuà
-22	好	好	ADJ	JJ	_	2	ccomp	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
-23	了	了	PART	UH	_	22	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
-24	。	。	PUNCT	.	_	22	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
-25	”	”	PUNCT	''	_	22	punct	_	Translit=”|LTranslit=”
+18	這些	這些	DET	DT	_	21	nsubj	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
+19	都	都	ADV	RB	_	21	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
+20	已經	已經	ADV	RB	_	21	advmod	_	SpaceAfter=No|Translit=yǐjīng|LTranslit=yǐjīng
+21	計劃	計劃	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=jìhuà|LTranslit=jìhuà
+22	好	好	ADJ	JJ	_	21	xcomp	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
+23	了	了	PART	UH	_	21	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
+24	。	。	PUNCT	.	_	21	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+25	”	”	PUNCT	''	_	21	punct	_	Translit=”|LTranslit=”
 
 # newdoc id = n05009
 # sent_id = n05009030
