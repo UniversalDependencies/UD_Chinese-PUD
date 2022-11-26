@@ -16671,15 +16671,15 @@
 3	是	是	AUX	VC	_	4	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 4	皇室	皇室	NOUN	NN	_	13	xcomp	_	SpaceAfter=No|Translit=huángshì|LTranslit=huángshì
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-6	直呼	直呼	VERB	VV	_	13	csubj	_	SpaceAfter=No|Translit=zhíhū|LTranslit=zhíhū
+6	直呼	直呼	VERB	VV	_	10	csubj	_	SpaceAfter=No|Translit=zhíhū|LTranslit=zhíhū
 7	其	其	PRON	PRP	Person=3	8	compound	_	SpaceAfter=No|Translit=qí|LTranslit=qí
 8	名字	名字	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=míngzì|LTranslit=míngzì
-9	會	會	AUX	MD	_	13	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
-10	顯得	顯得	AUX	VV	_	13	cop	_	SpaceAfter=No|Translit=xiǎnde|LTranslit=xiǎnde
-11	非常	非常	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=fēicháng|LTranslit=fēicháng
-12	不	不	ADV	RB	Polarity=Neg	13	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
-13	禮貌	禮貌	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=lǐmào|LTranslit=lǐmào
-14	。	。	PUNCT	.	_	13	punct	_	Translit=.|LTranslit=.
+9	會	會	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
+10	顯得	顯得	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xiǎnde|LTranslit=xiǎnde
+11	非常	非常	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=fēicháng|LTranslit=fēicháng
+12	不	不	ADV	RB	Polarity=Neg	10	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+13	禮貌	禮貌	ADJ	JJ	_	10	xcomp	_	SpaceAfter=No|Translit=lǐmào|LTranslit=lǐmào
+14	。	。	PUNCT	.	_	10	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = w01095
 # sent_id = w01095091
