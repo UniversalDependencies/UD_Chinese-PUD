@@ -6010,8 +6010,8 @@
 8	對	對	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	靈感	靈感	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=línggǎn|LTranslit=línggǎn
-11	，	，	PUNCT	,	_	28	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-12	因為	因為	ADP	IN	_	28	mark	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
+11	，	，	PUNCT	,	_	26	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+12	因為	因為	ADP	IN	_	26	mark	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 13	當	當	ADP	IN	_	19	mark	_	SpaceAfter=No|Translit=dāng|LTranslit=dāng
 14	我	我	PRON	PRP	Person=1	19	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 15	為	為	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
@@ -6024,10 +6024,10 @@
 22	系列	系列	NOUN	NN	_	19	obj	_	SpaceAfter=No|Translit=xìliè|LTranslit=xìliè
 23	時	時	ADP	IN	_	19	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
 24	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-25	我	我	PRON	PRP	Person=1	28	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-26	覺得	覺得	AUX	VV	_	28	cop	_	SpaceAfter=No|Translit=juéde|LTranslit=juéde
-27	非常	非常	ADV	RB	_	28	advmod	_	SpaceAfter=No|Translit=fēicháng|LTranslit=fēicháng
-28	有趣	有趣	ADJ	JJ	_	7	xcomp	_	SpaceAfter=No|Translit=yǒuqù|LTranslit=yǒuqù
+25	我	我	PRON	PRP	Person=1	26	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
+26	覺得	覺得	VERB	VV	_	7	xcomp	_	SpaceAfter=No|Translit=juéde|LTranslit=juéde
+27	非常	非常	ADV	RB	_	26	advmod	_	SpaceAfter=No|Translit=fēicháng|LTranslit=fēicháng
+28	有趣	有趣	ADJ	JJ	_	26	xcomp	_	SpaceAfter=No|Translit=yǒuqù|LTranslit=yǒuqù
 29	。	。	PUNCT	.	_	7	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01091
