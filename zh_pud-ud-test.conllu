@@ -5504,10 +5504,10 @@
 19	賺取	賺取	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zhuànqǔ|LTranslit=zhuànqǔ
 20	3%	3%	NUM	CD	NumType=Card	22	nmod	_	SpaceAfter=No|Translit=3%|LTranslit=3%
 21	的	的	PART	DEC	Case=Gen	20	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-22	返現	返現	NOUN	NN	_	25	nsubj	_	SpaceAfter=No|Translit=fǎnxiàn|LTranslit=fǎnxiàn
+22	返現	返現	NOUN	NN	_	24	nsubj	_	SpaceAfter=No|Translit=fǎnxiàn|LTranslit=fǎnxiàn
 23	，	，	PUNCT	,	_	22	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-24	即	即	AUX	VC	_	25	cop	_	SpaceAfter=No|Translit=jí|LTranslit=jí
-25	£360	£360	NUM	CD	NumType=Card	19	ccomp	_	SpaceAfter=No|Translit=£360|LTranslit=£360
+24	即	即	VERB	VC	_	19	ccomp	_	SpaceAfter=No|Translit=jí|LTranslit=jí
+25	£360	£360	NUM	CD	NumType=Card	24	xcomp	_	SpaceAfter=No|Translit=£360|LTranslit=£360
 26	。	。	PUNCT	.	_	19	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01084
@@ -13216,16 +13216,16 @@
 11	發現	發現	VERB	VV	_	31	dep	_	SpaceAfter=No|Translit=fāxiàn|LTranslit=fāxiàn
 12	了	了	AUX	AS	Aspect=Perf	11	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 13	“	“	PUNCT	``	_	14	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-14	南海	南海	PROPN	NNP	_	22	nsubj	_	SpaceAfter=No|Translit=nánhǎi|LTranslit=nánhǎi
+14	南海	南海	PROPN	NNP	_	17	nsubj	_	SpaceAfter=No|Translit=nánhǎi|LTranslit=nánhǎi
 15	”	”	PUNCT	''	_	14	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 16	（	（	PUNCT	(	_	14	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
-17	即	即	AUX	VC	_	22	cop	_	SpaceAfter=No|Translit=jí|LTranslit=jí
+17	即	即	VERB	VC	_	28	advcl	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 18	巴拿馬	巴拿馬	PROPN	NNP	_	20	compound	_	SpaceAfter=No|Translit=banámǎ|LTranslit=banámǎ
 19	地峽	地峽	NOUN	NN	_	20	compound	_	Proper=True|SpaceAfter=No|Translit=dexiá|LTranslit=dexiá
 20	南邊	南邊	NOUN	NN	_	22	nmod	_	SpaceAfter=No|Translit=nánbiān|LTranslit=nánbiān
 21	的	的	PART	DEC	Case=Gen	20	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-22	太平洋	太平洋	PROPN	NNP	_	28	advcl	_	SpaceAfter=No|Translit=tàipíngyáng|LTranslit=tàipíngyáng
-23	，	，	PUNCT	,	_	22	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+22	太平洋	太平洋	PROPN	NNP	_	17	xcomp	_	SpaceAfter=No|Translit=tàipíngyáng|LTranslit=tàipíngyáng
+23	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 24	與	與	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 25	“	“	PUNCT	``	_	26	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 26	北海	北海	PROPN	NNP	_	28	obl	_	SpaceAfter=No|Translit=běihǎi|LTranslit=běihǎi
@@ -14550,7 +14550,7 @@
 9	討論	討論	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=tǎolùn|LTranslit=tǎolùn
 10	當中	當中	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=dāngzhōng|LTranslit=dāngzhōng
 11	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-12	但是	但是	ADV	RB	_	32	advmod	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
+12	但是	但是	ADV	RB	_	27	advmod	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
 13	它們	它	PRON	PRP	Number=Plur|Person=3	19	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 14	可能	可能	AUX	MD	_	19	aux	_	SpaceAfter=No|Translit=kěnéng|LTranslit=kěnéng
 15	在	在	ADP	IN	_	18	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -14565,13 +14565,13 @@
 24	高地	高地	NOUN	NN	_	19	obj	_	SpaceAfter=No|Translit=gāode|LTranslit=gāode
 25	”	”	PUNCT	''	_	24	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 26	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-27	即	即	AUX	VC	_	32	cop	_	SpaceAfter=No|Translit=jí|LTranslit=jí
-28	約	約	ADV	RB	_	32	advmod	_	SpaceAfter=No|Translit=yuē|LTranslit=yuē
+27	即	即	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=jí|LTranslit=jí
+28	約	約	ADV	RB	_	27	advmod	_	SpaceAfter=No|Translit=yuē|LTranslit=yuē
 29	公元	公元	NOUN	NN	_	32	compound	_	SpaceAfter=No|Translit=gōngyuán|LTranslit=gōngyuán
 30	前	前	ADP	IN	_	29	case:loc	_	SpaceAfter=No|Translit=qián|LTranslit=qián
 31	1600	1600	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No|Translit=1600|LTranslit=1600
-32	年	年	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-33	。	。	PUNCT	.	_	32	punct	_	Translit=.|LTranslit=.
+32	年	年	NOUN	NNB	_	27	xcomp	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+33	。	。	PUNCT	.	_	27	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = w01065
 # sent_id = w01065020
@@ -25518,9 +25518,9 @@
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	城邦制	城邦制	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=chéngbāngzhì|LTranslit=chéngbāngzhì
 9	逐漸	逐漸	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=zhújiàn|LTranslit=zhújiàn
-10	建立	建立	VERB	VV	_	22	csubj	_	SpaceAfter=No|Translit=jiànlì|LTranslit=jiànlì
+10	建立	建立	VERB	VV	_	12	csubj	_	SpaceAfter=No|Translit=jiànlì|LTranslit=jiànlì
 11	：	：	PUNCT	:	_	10	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
-12	即	即	AUX	VC	_	22	cop	_	SpaceAfter=No|Translit=jí|LTranslit=jí
+12	即	即	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 13	擁有	擁有	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No|Translit=yōngyǒu|LTranslit=yōngyǒu
 14	自己	自己	PRON	PRD	_	17	nmod	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
 15	的	的	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -25530,8 +25530,8 @@
 19	小型	小型	NOUN	NN	_	22	compound	_	SpaceAfter=No|Translit=xiǎoxíng|LTranslit=xiǎoxíng
 20	自治	自治	NOUN	NN	_	22	compound	_	SpaceAfter=No|Translit=zìzhì|LTranslit=zìzhì
 21	領地	領地	NOUN	NN	_	22	compound	_	SpaceAfter=No|Translit=lǐngde|LTranslit=lǐngde
-22	制度	制度	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=zhìdù|LTranslit=zhìdù
-23	。	。	PUNCT	.	_	22	punct	_	Translit=.|LTranslit=.
+22	制度	制度	NOUN	NN	_	12	xcomp	_	SpaceAfter=No|Translit=zhìdù|LTranslit=zhìdù
+23	。	。	PUNCT	.	_	12	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = w03006
 # sent_id = w03006024
