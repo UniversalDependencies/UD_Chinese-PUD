@@ -4121,7 +4121,7 @@
 # text_en = But, as the criticism of Clinton as First Lady became more caustic, Karel became more empathetic.
 1	但是	但是	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-3	當	當	ADP	IN	_	14	mark	_	SpaceAfter=No|Translit=dāng|LTranslit=dāng
+3	當	當	ADP	IN	_	12	mark	_	SpaceAfter=No|Translit=dāng|LTranslit=dāng
 4	針對	針對	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=zhēnduì|LTranslit=zhēnduì
 5	克林頓	克林頓	PROPN	NNP	_	6	nsubj	_	SpaceAfter=No|Translit=kèlíndùn|LTranslit=kèlíndùn
 6	作	作	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
@@ -4129,12 +4129,12 @@
 8	第一	第一	ADJ	CD	NumType=Ord	9	amod	_	SpaceAfter=No|Translit=dìyī|LTranslit=dìyī
 9	夫人	夫人	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=furén|LTranslit=furén
 10	的	的	PART	DEC	_	4	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-11	批評	批評	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=pīpíng|LTranslit=pīpíng
-12	變得	變得	AUX	VV	_	14	cop	_	SpaceAfter=No|Translit=biànde|LTranslit=biànde
-13	更加	更加	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=gèngjiā|LTranslit=gèngjiā
-14	刻薄	刻薄	ADJ	JJ	_	18	xcomp	_	SpaceAfter=No|Translit=kèbáo|LTranslit=kèbáo
-15	時	時	ADP	IN	_	14	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
-16	，	，	PUNCT	,	_	14	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+11	批評	批評	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=pīpíng|LTranslit=pīpíng
+12	變得	變得	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit=biànde|LTranslit=biànde
+13	更加	更加	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=gèngjiā|LTranslit=gèngjiā
+14	刻薄	刻薄	ADJ	JJ	_	12	xcomp	_	SpaceAfter=No|Translit=kèbáo|LTranslit=kèbáo
+15	時	時	ADP	IN	_	12	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
+16	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 17	卡雷爾	卡雷爾	PROPN	NNP	_	18	nsubj	_	SpaceAfter=No|Translit=kǎléi'ěr|LTranslit=kǎléi'ěr
 18	變得	變得	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=biànde|LTranslit=biànde
 19	更加	更加	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit=gèngjiā|LTranslit=gèngjiā
