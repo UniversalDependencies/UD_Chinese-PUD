@@ -3005,8 +3005,8 @@
 8	美	美	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=měi|LTranslit=měi
 9	元	元	NOUN	NNB	_	0	root	_	Proper=True|SpaceAfter=No|Translit=yuán|LTranslit=yuán
 10	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-11	差	差	AUX	VV	_	12	cop	_	SpaceAfter=No|Translit=chà|LTranslit=chà
-12	不多	不多	ADJ	JJ	_	16	advcl	_	SpaceAfter=No|Translit=bùduō|LTranslit=bùduō
+11	差	差	VERB	VV	_	16	advcl	_	SpaceAfter=No|Translit=chà|LTranslit=chà
+12	不多	不多	ADJ	JJ	_	11	xcomp	_	SpaceAfter=No|Translit=bùduō|LTranslit=bùduō
 13	和	和	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 14	2015-2016	2015-2016	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|Translit=2015-2016|LTranslit=2015-2016
 15	年	年	NOUN	NNB	_	16	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
@@ -22543,8 +22543,8 @@
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	工作	工作	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=gōngzuò|LTranslit=gōngzuò
 5	時間	時間	NOUN	NN	_	10	nsubj	_	SpaceAfter=No|Translit=shíjiān|LTranslit=shíjiān
-6	差	差	AUX	VV	_	7	cop	_	SpaceAfter=No|Translit=chà|LTranslit=chà
-7	不多	不多	ADJ	JJ	_	10	acl	_	SpaceAfter=No|Translit=bùduō|LTranslit=bùduō
+6	差	差	VERB	VV	_	10	acl	_	SpaceAfter=No|Translit=chà|LTranslit=chà
+7	不多	不多	ADJ	JJ	_	6	xcomp	_	SpaceAfter=No|Translit=bùduō|LTranslit=bùduō
 8	是	是	AUX	VC	_	10	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 9	45	45	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=45|LTranslit=45
 10	分鐘	分鐘	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=fēnzhōng|LTranslit=fēnzhōng
