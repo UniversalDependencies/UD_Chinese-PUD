@@ -22033,15 +22033,15 @@
 # text = 如果他的民主黨對手競選成功了，他保證她會“被調查很多年”。
 # translit = rúguǒtādemínzhǔdǎngduìshǒujìngxuǎnchénggōngle,tābǎozhèngtāhuì“bèidiàocháhěnduōnián”.
 # text_en = If his Democrat opponent were to be elected, he assured that she would be 'under investigation for years'.
-1	如果	如果	ADP	IN	_	7	mark	_	SpaceAfter=No|Translit=rúguǒ|LTranslit=rúguǒ
+1	如果	如果	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=rúguǒ|LTranslit=rúguǒ
 2	他	他	PRON	PRP	Person=3	5	nmod	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	民主黨	民主黨	NOUN	NN	_	5	compound	_	Proper=True|SpaceAfter=No|Translit=mínzhǔdǎng|LTranslit=mínzhǔdǎng
-5	對手	對手	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=duìshǒu|LTranslit=duìshǒu
-6	競選	競選	AUX	VV	_	7	cop	_	SpaceAfter=No|Translit=jìngxuǎn|LTranslit=jìngxuǎn
-7	成功	成功	ADJ	JJ	_	11	xcomp	_	SpaceAfter=No|Translit=chénggōng|LTranslit=chénggōng
-8	了	了	PART	UH	_	7	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
-9	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+5	對手	對手	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=duìshǒu|LTranslit=duìshǒu
+6	競選	競選	VERB	VV	_	11	xcomp	_	SpaceAfter=No|Translit=jìngxuǎn|LTranslit=jìngxuǎn
+7	成功	成功	ADJ	JJ	_	6	xcomp	_	SpaceAfter=No|Translit=chénggōng|LTranslit=chénggōng
+8	了	了	PART	UH	_	6	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
+9	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	他	他	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 11	保證	保證	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bǎozhèng|LTranslit=bǎozhèng
 12	她	她	PRON	PRP	Person=3	16	obl:agent	_	SpaceAfter=No|Translit=tā|LTranslit=tā
