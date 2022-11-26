@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>21415</tokens><words>21415</words><fused>0</fused></test>
   </size>
-  <lemmas unique="5472" /><!-- 的, ，, 。, 在, 了, 他, 一, 是, 和, 年, 個, 這, 為, 於, 中 -->
+  <lemmas unique="5462" /><!-- 的, ，, 。, 在, 了, 是, 他, 一, 和, 年, 個, 這, 為, 於, 中 -->
   <forms unique="5477" /><!-- 的, ，, 。, 在, 了, 一, 是, 和, 年, 個, 他, 這, 為, 於, 中 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -28,7 +28,7 @@
     <tag name="PROPN">1361</tag><!-- 美國, 英國, 中國, 德國, 歐, 法國, 歐洲, 希臘, 特朗普, 地中海 -->
     <tag name="PUNCT">2902</tag><!-- ，, 。, （, ）, ·, 、, ”, “, 《, 》 -->
     <tag name="SCONJ">28</tag><!-- 的話, 雖然, 儘管, 無論, 不管, 不論, 即使, 要么, 一旦, 若 -->
-    <tag name="VERB">3522</tag><!-- 在, 有, 於, 是, 為, 說, 沒有, 開始, 來, 到 -->
+    <tag name="VERB">3522</tag><!-- 在, 有, 是, 於, 為, 說, 沒有, 開始, 來, 到 -->
     <tag name="X">306</tag><!-- BBC, CNN, the, Martin, Anaya, Andy, B.C., Barrosos, Catalano, DNA -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -43,7 +43,7 @@
     <feat name="Person" value="1" upos="PRON">101</feat><!-- 我, 我們 -->
     <feat name="Person" value="2" upos="PRON">20</feat><!-- 你, 您, 你們 -->
     <feat name="Person" value="3" upos="PRON">422</feat><!-- 他, 他們, 她, 其, 它, 它們, 她們, 牠們 -->
-    <feat name="Polarity" value="Neg" upos="ADV">65</feat><!-- 不, 未, 勿 -->
+    <feat name="Polarity" value="Neg" upos="ADV,AUX,VERB">79</feat><!-- 不, 不是, 未, 勿 -->
     <feat name="Voice" value="Cau" upos="ADP,AUX,VERB">129</feat><!-- 把, 讓, 使, 令, 將, 導致, 以, 以至, 使得, 任命 -->
     <feat name="Voice" value="Pass" upos="ADP,AUX">101</feat><!-- 被 -->
   </feats>
