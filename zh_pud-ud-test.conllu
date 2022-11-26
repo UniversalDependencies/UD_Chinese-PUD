@@ -18569,10 +18569,10 @@
 17	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 18	威爾克斯	威爾克斯	PROPN	NNP	_	26	nsubj	_	SpaceAfter=No|Translit=wēi'ěrkèsī|LTranslit=wēi'ěrkèsī
 19	兩	兩	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
-20	次	次	NOUN	NNB	_	23	obl	_	SpaceAfter=No|Translit=cì|LTranslit=cì
-21	被	被	AUX	BB	Voice=Pass	23	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-22	選舉	選舉	AUX	VV	_	23	cop	_	SpaceAfter=No|Translit=xuǎnjǔ|LTranslit=xuǎnjǔ
-23	成功	成功	ADJ	JJ	_	26	advcl	_	SpaceAfter=No|Translit=chénggōng|LTranslit=chénggōng
+20	次	次	NOUN	NNB	_	22	obl	_	SpaceAfter=No|Translit=cì|LTranslit=cì
+21	被	被	AUX	BB	Voice=Pass	22	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
+22	選舉	選舉	VERB	VV	_	26	advcl	_	SpaceAfter=No|Translit=xuǎnjǔ|LTranslit=xuǎnjǔ
+23	成功	成功	ADJ	JJ	_	22	xcomp	_	SpaceAfter=No|Translit=chénggōng|LTranslit=chénggōng
 24	隨後	隨後	ADV	RB	_	26	advmod	_	SpaceAfter=No|Translit=suíhòu|LTranslit=suíhòu
 25	又	又	ADV	RB	_	26	advmod	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
 26	遭	遭	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zāo|LTranslit=zāo
