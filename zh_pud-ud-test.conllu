@@ -10185,12 +10185,12 @@
 10	於	於	VERB	VV	_	9	mark:prt	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 11	他們	他	PRON	PRP	Number=Plur|Person=3	13	nmod	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-13	記憶	記憶	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=jìyì|LTranslit=jìyì
+13	記憶	記憶	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=jìyì|LTranslit=jìyì
 14	在	在	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
-15	生者	生者	NOUN	NN	_	18	obl	_	SpaceAfter=No|Translit=shēngzhě|LTranslit=shēngzhě
+15	生者	生者	NOUN	NN	_	17	obl	_	SpaceAfter=No|Translit=shēngzhě|LTranslit=shēngzhě
 16	之中	之中	ADP	IN	_	15	case:loc	_	SpaceAfter=No|Translit=zhīzhōng|LTranslit=zhīzhōng
-17	永保	永保	AUX	VV	_	18	cop	_	SpaceAfter=No|Translit=yǒngbǎo|LTranslit=yǒngbǎo
-18	鮮活	鮮活	ADJ	JJ	_	9	ccomp	_	SpaceAfter=No|Translit=xiānhuó|LTranslit=xiānhuó
+17	永保	永保	VERB	VV	_	9	ccomp	_	SpaceAfter=No|Translit=yǒngbǎo|LTranslit=yǒngbǎo
+18	鮮活	鮮活	ADJ	JJ	_	17	xcomp	_	SpaceAfter=No|Translit=xiānhuó|LTranslit=xiānhuó
 19	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 20	他	他	PRON	PRP	Person=3	21	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 21	說	說	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
