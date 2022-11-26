@@ -24618,11 +24618,11 @@
 9	本來	本來	ADV	RB	_	21	advmod	_	SpaceAfter=No|Translit=běnlái|LTranslit=běnlái
 10	就	就	ADV	RB	_	21	advmod	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
 11	已經	已經	ADV	RB	_	21	advmod	_	SpaceAfter=No|Translit=yǐjīng|LTranslit=yǐjīng
-12	因為	因為	ADP	IN	_	16	mark	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
+12	因為	因為	ADP	IN	_	15	mark	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 13	麵包	麵包	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=麵bāo|LTranslit=麵bāo
-14	價格	價格	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=jiàgé|LTranslit=jiàgé
-15	持續	持續	AUX	VV	_	16	cop	_	SpaceAfter=No|Translit=chíxù|LTranslit=chíxù
-16	高漲	高漲	ADJ	JJ	_	22	xcomp	_	SpaceAfter=No|Translit=gāozhǎng|LTranslit=gāozhǎng
+14	價格	價格	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=jiàgé|LTranslit=jiàgé
+15	持續	持續	VERB	VV	_	22	xcomp	_	SpaceAfter=No|Translit=chíxù|LTranslit=chíxù
+16	高漲	高漲	ADJ	JJ	_	15	xcomp	_	SpaceAfter=No|Translit=gāozhǎng|LTranslit=gāozhǎng
 17	及	及	CCONJ	CC	_	18	cc	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 18	缺少	缺少	VERB	VV	_	16	conj	_	SpaceAfter=No|Translit=quēshǎo|LTranslit=quēshǎo
 19	供應	供應	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=gōngyīng|LTranslit=gōngyīng
