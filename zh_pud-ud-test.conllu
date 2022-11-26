@@ -21482,9 +21482,9 @@
 # translit = jǐngcháshǎdàobùxíngdewènwǒshìfǒurènshizuòjiājūntè·dé·bù呂yīn(Günter de Bruyn),yǐjíwǒmenshìfǒushìqīnqi.
 # text_en = I was asked by the officers, in their inimitably dumb way, whether I knew the writer Günter de Bruyn and whether we are intellectual relatives.
 1	警察	警察	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=jǐngchá|LTranslit=jǐngchá
-2	傻	傻	AUX	JJ	_	4	cop	_	SpaceAfter=No|Translit=shǎ|LTranslit=shǎ
-3	到	到	VERB	VV	_	4	mark:prt	_	SpaceAfter=No|Translit=dào|LTranslit=dào
-4	不行	不行	ADJ	JJ	_	6	advcl	_	SpaceAfter=No|Translit=bùxíng|LTranslit=bùxíng
+2	傻	傻	VERB	JJ	_	6	advcl	_	SpaceAfter=No|Translit=shǎ|LTranslit=shǎ
+3	到	到	VERB	VV	_	2	mark:prt	_	SpaceAfter=No|Translit=dào|LTranslit=dào
+4	不行	不行	ADJ	JJ	_	2	xcomp	_	SpaceAfter=No|Translit=bùxíng|LTranslit=bùxíng
 5	的	的	PART	DEV	_	6	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	問	問	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wèn|LTranslit=wèn
 7	我	我	PRON	PRP	Person=1	6	obj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
