@@ -5925,10 +5925,10 @@
 9	衣服	衣服	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=yīfú|LTranslit=yīfú
 10	非常	非常	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=fēicháng|LTranslit=fēicháng
 11	多	多	ADJ	JJ	_	15	dep	_	SpaceAfter=No|Translit=duō|LTranslit=duō
-12	而	而	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit='ér|LTranslit='ér
-13	食物	食物	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=shíwù|LTranslit=shíwù
-14	只有	只有	AUX	VV	_	15	cop	_	SpaceAfter=No|Translit=zhǐyǒu|LTranslit=zhǐyǒu
-15	一點點	一點點	ADJ	JJ	_	8	ccomp	_	SpaceAfter=No|Translit=yīdiǎndiǎn|LTranslit=yīdiǎndiǎn
+12	而	而	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit='ér|LTranslit='ér
+13	食物	食物	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=shíwù|LTranslit=shíwù
+14	只有	只有	VERB	VV	_	8	ccomp	_	SpaceAfter=No|Translit=zhǐyǒu|LTranslit=zhǐyǒu
+15	一點點	一點點	ADJ	JJ	_	14	xcomp	_	SpaceAfter=No|Translit=yīdiǎndiǎn|LTranslit=yīdiǎndiǎn
 16	。	。	PUNCT	.	_	8	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01089
