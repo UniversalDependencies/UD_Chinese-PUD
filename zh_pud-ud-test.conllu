@@ -3510,12 +3510,12 @@
 33	例行	例行	VERB	VV	_	36	acl:relcl	_	SpaceAfter=No|Translit=lìxíng|LTranslit=lìxíng
 34	的	的	PART	DEC	_	33	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 35	超聲波	超聲波	NOUN	NN	_	36	compound	_	SpaceAfter=No|Translit=chāoshēngbō|LTranslit=chāoshēngbō
-36	檢測	檢測	NOUN	NN	_	39	nsubj	_	SpaceAfter=No|Translit=jiǎncè|LTranslit=jiǎncè
-37	變	變	AUX	VV	_	39	cop	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
-38	得	得	PART	DEV	_	39	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
-39	複雜	複雜	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=fùzá|LTranslit=fùzá
-40	起來	起來	VERB	VV	_	39	mark:prt	_	SpaceAfter=No|Translit=qǐlái|LTranslit=qǐlái
-41	。	。	PUNCT	.	_	39	punct	_	Translit=.|LTranslit=.
+36	檢測	檢測	NOUN	NN	_	37	nsubj	_	SpaceAfter=No|Translit=jiǎncè|LTranslit=jiǎncè
+37	變	變	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
+38	得	得	PART	DEV	_	37	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
+39	複雜	複雜	ADJ	JJ	_	37	xcomp	_	SpaceAfter=No|Translit=fùzá|LTranslit=fùzá
+40	起來	起來	VERB	VV	_	37	mark:prt	_	SpaceAfter=No|Translit=qǐlái|LTranslit=qǐlái
+41	。	。	PUNCT	.	_	37	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01051
 # sent_id = n01051006
@@ -6548,11 +6548,11 @@
 14	我	我	PRON	PRP	Person=1	16	nmod	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 15	的	的	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	列表	列表	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=lièbiǎo|LTranslit=lièbiǎo
-17	變	變	AUX	VV	_	20	cop	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
-18	得	得	PART	DEV	_	20	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
-19	非常	非常	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit=fēicháng|LTranslit=fēicháng
-20	長	長	ADJ	JJ	_	23	advcl	_	SpaceAfter=No|Translit=zhǎng|LTranslit=zhǎng
-21	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+17	變	變	VERB	VV	_	23	advcl	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
+18	得	得	PART	DEV	_	17	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
+19	非常	非常	ADV	RB	_	17	advmod	_	SpaceAfter=No|Translit=fēicháng|LTranslit=fēicháng
+20	長	長	ADJ	JJ	_	17	xcomp	_	SpaceAfter=No|Translit=zhǎng|LTranslit=zhǎng
+21	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 22	幾乎	幾乎	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=jǐhu|LTranslit=jǐhu
 23	涉及	涉及	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shèjí|LTranslit=shèjí
 24	聯邦	聯邦	NOUN	NN	_	30	nmod	_	SpaceAfter=No|Translit=liánbāng|LTranslit=liánbāng
@@ -21675,11 +21675,11 @@
 19	兩	兩	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
 20	個	個	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 21	敵對	敵對	NOUN	NN	_	22	compound	_	SpaceAfter=No|Translit=díduì|LTranslit=díduì
-22	派系	派系	NOUN	NN	_	26	nsubj	_	SpaceAfter=No|Translit=pàixì|LTranslit=pàixì
-23	變	變	AUX	VV	_	26	cop	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
-24	的	的	PART	DEV	_	26	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
-25	更	更	ADV	RB	_	26	advmod	_	SpaceAfter=No|Translit=gèng|LTranslit=gèng
-26	親密	親密	ADJ	JJ	_	17	ccomp	_	SpaceAfter=No|Translit=qīnmì|LTranslit=qīnmì
+22	派系	派系	NOUN	NN	_	23	nsubj	_	SpaceAfter=No|Translit=pàixì|LTranslit=pàixì
+23	變	變	VERB	VV	_	17	ccomp	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
+24	的	的	PART	DEV	_	23	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
+25	更	更	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=gèng|LTranslit=gèng
+26	親密	親密	ADJ	JJ	_	23	xcomp	_	SpaceAfter=No|Translit=qīnmì|LTranslit=qīnmì
 27	。	。	PUNCT	.	_	17	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n02074
