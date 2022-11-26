@@ -24506,20 +24506,20 @@
 6	歐	歐	PROPN	NNP	_	8	nmod	_	SpaceAfter=No|Translit='ōu|LTranslit='ōu
 7	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	地點	地點	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=dediǎn|LTranslit=dediǎn
-9	一樣	一樣	ADJ	JJ	_	16	advcl	_	SpaceAfter=No|Translit=yīyàng|LTranslit=yīyàng
+9	一樣	一樣	ADJ	JJ	_	14	advcl	_	SpaceAfter=No|Translit=yīyàng|LTranslit=yīyàng
 10	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	該	該	DET	DT	_	12	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
-12	研究	研究	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=yánjiū|LTranslit=yánjiū
-13	可	可	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=kě|LTranslit=kě
-14	追溯	追溯	AUX	VV	_	16	cop	_	SpaceAfter=No|Translit=zhuī溯|LTranslit=zhuī溯
-15	到	到	VERB	VV	_	16	mark:prt	_	SpaceAfter=No|Translit=dào|LTranslit=dào
-16	早	早	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=zǎo|LTranslit=zǎo
-17	至	至	VERB	VV	_	16	obj	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
+12	研究	研究	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=yánjiū|LTranslit=yánjiū
+13	可	可	AUX	MD	_	14	aux	_	SpaceAfter=No|Translit=kě|LTranslit=kě
+14	追溯	追溯	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zhuī溯|LTranslit=zhuī溯
+15	到	到	VERB	VV	_	14	mark:prt	_	SpaceAfter=No|Translit=dào|LTranslit=dào
+16	早	早	ADJ	JJ	_	14	xcomp	_	SpaceAfter=No|Translit=zǎo|LTranslit=zǎo
+17	至	至	VERB	VV	_	14	obj	_	SpaceAfter=No|Translit=zhì|LTranslit=zhì
 18	公元	公元	NOUN	NN	_	21	compound	_	SpaceAfter=No|Translit=gōngyuán|LTranslit=gōngyuán
 19	前	前	ADP	IN	_	18	case:loc	_	SpaceAfter=No|Translit=qián|LTranslit=qián
 20	5	5	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=5|LTranslit=5
 21	世紀	世紀	NOUN	NNB	_	17	obj	_	SpaceAfter=No|Translit=shìjì|LTranslit=shìjì
-22	。	。	PUNCT	.	_	16	punct	_	Translit=.|LTranslit=.
+22	。	。	PUNCT	.	_	14	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = w02008
 # sent_id = w02008038
