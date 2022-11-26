@@ -4380,17 +4380,17 @@
 # text_en = It would be much safer, Plato thought, to entrust power to carefully educated guardians.
 1	柏拉圖	柏拉圖	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=bǎilātú|LTranslit=bǎilātú
 2	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
-3	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+3	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 4	將	將	ADP	BB	Voice=Cau	5	case	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
 5	權力	權力	NOUN	NN	_	6	obl:patient	_	SpaceAfter=No|Translit=quánlì|LTranslit=quánlì
-6	授予	授予	VERB	VV	_	13	csubj	_	SpaceAfter=No|Translit=shòuyǔ|LTranslit=shòuyǔ
+6	授予	授予	VERB	VV	_	11	csubj	_	SpaceAfter=No|Translit=shòuyǔ|LTranslit=shòuyǔ
 7	精心	精心	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=jīngxīn|LTranslit=jīngxīn
 8	培育	培育	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=péiyù|LTranslit=péiyù
 9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	守護者們	守護者們	VERB	VV	_	6	iobj	_	SpaceAfter=No|Translit=shǒuhùzhěmen|LTranslit=shǒuhùzhěmen
-11	安全	安全	AUX	JJ	_	13	cop	_	SpaceAfter=No|Translit='ānquán|LTranslit='ānquán
-12	得	得	PART	DEV	_	13	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
-13	多	多	ADJ	JJ	_	2	ccomp	_	SpaceAfter=No|Translit=duō|LTranslit=duō
+11	安全	安全	VERB	JJ	_	2	ccomp	_	SpaceAfter=No|Translit='ānquán|LTranslit='ānquán
+12	得	得	PART	DEV	_	11	mark:prt	_	SpaceAfter=No|Translit=de|LTranslit=de
+13	多	多	ADJ	JJ	_	11	xcomp	_	SpaceAfter=No|Translit=duō|LTranslit=duō
 14	。	。	PUNCT	.	_	2	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01064
