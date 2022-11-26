@@ -12473,9 +12473,9 @@
 2	一	一	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 3	方面	方面	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=fāngmiàn|LTranslit=fāngmiàn
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-5	管理	管理	AUX	VV	_	6	cop	_	SpaceAfter=No|Translit=guǎnlǐ|LTranslit=guǎnlǐ
-6	妥善	妥善	ADJ	JJ	_	10	acl:relcl	_	SpaceAfter=No|Translit=tuǒshàn|LTranslit=tuǒshàn
-7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+5	管理	管理	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=guǎnlǐ|LTranslit=guǎnlǐ
+6	妥善	妥善	ADJ	JJ	_	5	xcomp	_	SpaceAfter=No|Translit=tuǒshàn|LTranslit=tuǒshàn
+7	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	健康	健康	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=jiànkāng|LTranslit=jiànkāng
 9	生態	生態	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=shēngtài|LTranslit=shēngtài
 10	系統	系統	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=xìtǒng|LTranslit=xìtǒng
