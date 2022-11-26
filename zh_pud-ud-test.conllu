@@ -1666,12 +1666,12 @@
 13	想法	想法	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=xiǎngfǎ|LTranslit=xiǎngfǎ
 14	仍舊	仍舊	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=réngjiù|LTranslit=réngjiù
 15	讓	讓	VERB	VV	Voice=Cau	2	ccomp	_	SpaceAfter=No|Translit=ràng|LTranslit=ràng
-16	人	人	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
-17	感覺	感覺	AUX	VV	_	20	cop	_	SpaceAfter=No|Translit=gǎnjué|LTranslit=gǎnjué
-18	到	到	VERB	VV	_	20	mark:prt	_	SpaceAfter=No|Translit=dào|LTranslit=dào
-19	‘	‘	PUNCT	``	_	18	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
-20	噁心	噁心	ADJ	JJ	_	15	ccomp	_	SpaceAfter=No|Translit=噁xīn|LTranslit=噁xīn
-21	’	’	PUNCT	''	_	20	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
+16	人	人	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
+17	感覺	感覺	VERB	VV	_	15	ccomp	_	SpaceAfter=No|Translit=gǎnjué|LTranslit=gǎnjué
+18	到	到	VERB	VV	_	17	mark:prt	_	SpaceAfter=No|Translit=dào|LTranslit=dào
+19	‘	‘	PUNCT	``	_	20	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
+20	噁心	噁心	ADJ	JJ	_	17	xcomp	_	SpaceAfter=No|Translit=噁xīn|LTranslit=噁xīn
+21	’	’	PUNCT	''	_	17	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 22	。	。	PUNCT	.	_	15	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01025
