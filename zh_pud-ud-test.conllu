@@ -26098,10 +26098,10 @@
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 2	個	個	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 3	地區	地區	NOUN	NN	_	4	compound	_	SpaceAfter=No|Translit=deqū|LTranslit=deqū
-4	內部	內部	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=nèibù|LTranslit=nèibù
-5	起伏	起伏	AUX	VV	_	6	cop	_	SpaceAfter=No|Translit=qǐfú|LTranslit=qǐfú
-6	突然	突然	ADJ	JJ	_	11	dep	_	SpaceAfter=No|Translit=tūrán|LTranslit=tūrán
-7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+4	內部	內部	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=nèibù|LTranslit=nèibù
+5	起伏	起伏	VERB	VV	_	11	dep	_	SpaceAfter=No|Translit=qǐfú|LTranslit=qǐfú
+6	突然	突然	ADJ	JJ	_	5	xcomp	_	SpaceAfter=No|Translit=tūrán|LTranslit=tūrán
+7	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	不同	不同	ADJ	JJ	_	9	amod	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
 9	區域	區域	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=qūyù|LTranslit=qūyù
 10	之間	之間	ADP	IN	_	9	case:loc	_	SpaceAfter=No|Translit=zhījiān|LTranslit=zhījiān
