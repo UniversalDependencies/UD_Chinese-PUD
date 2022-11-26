@@ -3243,8 +3243,8 @@
 6	會	會	AUX	MD	_	8	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 7	不斷	不斷	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=bùduàn|LTranslit=bùduàn
 8	回來	回來	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=huílái|LTranslit=huílái
-9	爭取	爭取	AUX	VV	_	10	cop	_	SpaceAfter=No|Translit=zhēngqǔ|LTranslit=zhēngqǔ
-10	更多	更多	ADJ	JJ	_	8	xcomp	_	SpaceAfter=No|Translit=gèngduō|LTranslit=gèngduō
+9	爭取	爭取	VERB	VV	_	8	xcomp	_	SpaceAfter=No|Translit=zhēngqǔ|LTranslit=zhēngqǔ
+10	更多	更多	ADJ	JJ	_	9	xcomp	_	SpaceAfter=No|Translit=gèngduō|LTranslit=gèngduō
 11	。	。	PUNCT	.	_	2	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01048
