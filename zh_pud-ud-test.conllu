@@ -389,7 +389,7 @@
 # translit = ”wǒmenmiànlínhěnduōjìngzhēng,'érwǒmenrènwèizhèngquánzhuǎnyínéngduìcǐjúmiànyǒusuǒbāngzhù,”喬zhìchéngshāngyègǎishànhuìzhǔxí喬·sīdùnléishuōdào.
 # text_en = “We face a lot of competition, and we think transit can help,” said Joe Sternlieb, president of the Georgetown BID.
 1	”	”	PUNCT	``	_	9	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
-2	我們	我	PRON	PRP	Number=Plur|Person=1	9	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
+2	我們	我	PRON	PRP	Number=Plur|Person=1	2	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
 3	面臨	面臨	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=miànlín|LTranslit=miànlín
 4	很多	很多	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=hěnduō|LTranslit=hěnduō
 5	競爭	競爭	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=jìngzhēng|LTranslit=jìngzhēng
@@ -15893,13 +15893,13 @@
 3	緊鄰	緊鄰	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit=jǐnlín|LTranslit=jǐnlín
 4	色雷斯	色雷斯	PROPN	NNP	_	3	obj	_	SpaceAfter=No|Translit=sèléisī|LTranslit=sèléisī
 5	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-6	邊境	邊境	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=biānjìng|LTranslit=biānjìng
+6	邊境	邊境	NOUN	NN	_	16	nsubj:pass	_	SpaceAfter=No|Translit=biānjìng|LTranslit=biānjìng
 7	現在	現在	NOUN	NN	_	16	obl:tmod	_	SpaceAfter=No|Translit=xiànzài|LTranslit=xiànzài
 8	被	被	AUX	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-9	奈斯托斯河	奈斯托斯河	PROPN	NNP	_	16	nsubj	_	SpaceAfter=No|Translit=nàisītuōsīhé|LTranslit=nàisītuōsīhé
+9	奈斯托斯河	奈斯托斯河	PROPN	NNP	_	16	obj	_	SpaceAfter=No|Translit=nàisītuōsīhé|LTranslit=nàisītuōsīhé
 10	（	（	PUNCT	(	_	12	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 11	也	也	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
-12	叫	叫	VERB	VV	_	16	dep	_	SpaceAfter=No|Translit=jiào|LTranslit=jiào
+12	叫	叫	VERB	VV	_	9	parataxis	_	SpaceAfter=No|Translit=jiào|LTranslit=jiào
 13	麥斯塔河	麥斯塔河	PROPN	NNP	_	12	obj	_	SpaceAfter=No|Translit=màisītǎhé|LTranslit=màisītǎhé
 14	）	）	PUNCT	)	_	12	punct	_	SpaceAfter=No|Translit=)|LTranslit=)
 15	所	所	ADV	RB	_	16	mark:prt	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
@@ -20509,7 +20509,7 @@
 5	倫敦	倫敦	PROPN	NNP	_	6	compound	_	SpaceAfter=No|Translit=lún敦|LTranslit=lún敦
 6	會議	會議	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=huìyì|LTranslit=huìyì
 7	之	之	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
-8	初	初	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=chū|LTranslit=chū
+8	初	初	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=chū|LTranslit=chū
 9	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	六	六	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=liù|LTranslit=liù
 11	大國	大國	NOUN	NN	_	12	compound	_	SpaceAfter=No|Translit=dàguó|LTranslit=dàguó
@@ -23943,8 +23943,8 @@
 # text_en = May has received great criticism for avoiding and not responding openly to the media after the judicial ruling on Brexit.
 1	由於	由於	ADP	IN	_	7	mark	_	SpaceAfter=No|Translit=yóuyú|LTranslit=yóuyú
 2	英國	英國	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=yīngguó|LTranslit=yīngguó
-3	退	退	VERB	VV	_	5	amod	_	SpaceAfter=No|Translit=tuì|LTranslit=tuì
-4	歐	歐	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit='ōu|LTranslit='ōu
+3	退	退	VERB	VV	_	5	acl	_	SpaceAfter=No|Translit=tuì|LTranslit=tuì
+4	歐	歐	PROPN	NNP	_	3	obj	_	SpaceAfter=No|Translit='ōu|LTranslit='ōu
 5	決定	決定	NOUN	NN	_	7	obl	_	SpaceAfter=No|Translit=juédìng|LTranslit=juédìng
 6	之後	之後	ADP	IN	_	5	case:loc	_	SpaceAfter=No|Translit=zhīhòu|LTranslit=zhīhòu
 7	迴避	迴避	VERB	VV	_	17	xcomp	_	SpaceAfter=No|Translit=迴bì|LTranslit=迴bì

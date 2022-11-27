@@ -43,6 +43,7 @@ employ ten-fold cross-validation.
   * Added lemmas.
   * Scaled down the set of copulas and other auxiliaries.
   * Fixed: function words must be leaves.
+  * Fixed: at most one subject per clause.
 * 2021-05-15 v2.8
   * Changed mark:relcl to mark:rel (as in the other Chinese treebanks).
 * 2017-11-15 v2.1
