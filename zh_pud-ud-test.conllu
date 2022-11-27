@@ -7980,12 +7980,12 @@
 # text = 電影院發生瞭如此巨變以至於好萊塢已經疏遠了家庭觀眾。
 # translit = diànyǐngyuànfāshēngliǎorúcǐjùbiànyǐzhìyúhǎolái塢yǐjīngshūyuǎnlejiātíngguānzhòng.
 # text_en = "Cinema had changed so drastically that Hollywood had alienated the family audience."
-1	電影院	電影院	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=diànyǐngyuàn|LTranslit=diànyǐngyuàn
-2	發生	發生	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=fāshēng|LTranslit=fāshēng
-3	瞭	瞭	AUX	AS	Aspect=Perf	2	aux	_	SpaceAfter=No|Translit=liǎo|LTranslit=liǎo
+1	電影院	電影院	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=diànyǐngyuàn|LTranslit=diànyǐngyuàn
+2	發生	發生	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=fāshēng|LTranslit=fāshēng
+3	瞭	瞭	VERB	AS	Aspect=Perf	0	root	_	SpaceAfter=No|Translit=liǎo|LTranslit=liǎo
 4	如此	如此	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=rúcǐ|LTranslit=rúcǐ
 5	巨變	巨變	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=jùbiàn|LTranslit=jùbiàn
-6	以至	以至	VERB	VV	Voice=Cau	2	ccomp	_	SpaceAfter=No|Translit=yǐzhì|LTranslit=yǐzhì
+6	以至	以至	VERB	VV	Voice=Cau	3	ccomp	_	SpaceAfter=No|Translit=yǐzhì|LTranslit=yǐzhì
 7	於	於	VERB	VV	_	6	mark:prt	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 8	好萊塢	好萊塢	PROPN	NNP	_	10	nsubj	_	SpaceAfter=No|Translit=hǎolái塢|LTranslit=hǎolái塢
 9	已經	已經	ADV	RB	_	10	advmod	_	SpaceAfter=No|Translit=yǐjīng|LTranslit=yǐjīng
@@ -7993,7 +7993,7 @@
 11	了	了	AUX	AS	Aspect=Perf	10	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 12	家庭	家庭	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=jiātíng|LTranslit=jiātíng
 13	觀眾	觀眾	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=guānzhòng|LTranslit=guānzhòng
-14	。	。	PUNCT	.	_	2	punct	_	Translit=.|LTranslit=.
+14	。	。	PUNCT	.	_	3	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01119
 # sent_id = n01119011
