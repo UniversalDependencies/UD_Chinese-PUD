@@ -41,6 +41,7 @@ employ ten-fold cross-validation.
   * Fixed: Auxiliary must be tagged AUX.
   * Fixed: Nominal cannot be advmod.
   * Added lemmas.
+  * Scaled down the set of copulas and other auxiliaries.
 * 2021-05-15 v2.8
   * Changed mark:relcl to mark:rel (as in the other Chinese treebanks).
 * 2017-11-15 v2.1
