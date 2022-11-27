@@ -17349,9 +17349,9 @@
 2	最為	最為	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=zuìwèi|LTranslit=zuìwèi
 3	知名	知名	ADJ	JJ	_	5	amod	_	SpaceAfter=No|Translit=zhīmíng|LTranslit=zhīmíng
 4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
-5	成就	成就	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=chéngjiù|LTranslit=chéngjiù
-6	當	當	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=dāng|LTranslit=dāng
-7	屬	屬	VERB	VV	_	34	dep	_	SpaceAfter=No|Translit=shǔ|LTranslit=shǔ
+5	成就	成就	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=chéngjiù|LTranslit=chéngjiù
+6	當	當	VERB	MD	_	34	dep	_	SpaceAfter=No|Translit=dāng|LTranslit=dāng
+7	屬	屬	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=shǔ|LTranslit=shǔ
 8	名	名	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=míng|LTranslit=míng
 9	為	為	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 10	地面	地面	NOUN	NN	_	13	compound	_	SpaceAfter=No|Translit=demiàn|LTranslit=demiàn
@@ -17360,8 +17360,8 @@
 13	系統	系統	NOUN	NN	_	16	acl:relcl	_	SpaceAfter=No|Translit=xìtǒng|LTranslit=xìtǒng
 14	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 15	雷達	雷達	NOUN	NN	_	16	compound	_	SpaceAfter=No|Translit=léidá|LTranslit=léidá
-16	系統	系統	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=xìtǒng|LTranslit=xìtǒng
-17	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+16	系統	系統	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=xìtǒng|LTranslit=xìtǒng
+17	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 18	該	該	DET	DT	_	19	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
 19	系統	系統	NOUN	NN	_	34	nsubj	_	SpaceAfter=No|Translit=xìtǒng|LTranslit=xìtǒng
 20	在	在	ADP	IN	_	26	mark	_	SpaceAfter=No|Translit=zài|LTranslit=zài
