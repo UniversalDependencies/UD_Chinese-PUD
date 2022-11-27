@@ -632,15 +632,15 @@
 2	表示	表示	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=biǎoshì|LTranslit=biǎoshì
 3	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 4	她	她	PRON	PRP	Person=3	21	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
-5	把	把	AUX	BB	Voice=Cau	10	aux	_	SpaceAfter=No|Translit=bǎ|LTranslit=bǎ
+5	把	把	VERB	BB	Voice=Cau	15	advcl	_	SpaceAfter=No|Translit=bǎ|LTranslit=bǎ
 6	兒子	兒子	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=rzi|LTranslit=rzi
 7	安德烈	安德烈	PROPN	NNP	_	6	appos	_	SpaceAfter=No|Translit='āndéliè|LTranslit='āndéliè
 8	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-9	臉	臉	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=liǎn|LTranslit=liǎn
-10	按進	按進	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit='ànjìn|LTranslit='ànjìn
+9	臉	臉	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=liǎn|LTranslit=liǎn
+10	按進	按進	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit='ànjìn|LTranslit='ànjìn
 11	客廳	客廳	NOUN	NN	_	13	nmod	_	SpaceAfter=No|Translit=kètīng|LTranslit=kètīng
 12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No|Translit=de|LTranslit=de
-13	床墊	床墊	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=chuángdiàn|LTranslit=chuángdiàn
+13	床墊	床墊	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=chuángdiàn|LTranslit=chuángdiàn
 14	裡	裡	ADP	NN	_	13	case:loc	_	SpaceAfter=No|Translit=li|LTranslit=li
 15	殺死	殺死	VERB	VV	_	21	dep	_	SpaceAfter=No|Translit=shāsǐ|LTranslit=shāsǐ
 16	了	了	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -5203,19 +5203,19 @@
 3	我	我	PRON	PRP	Person=1	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 4	也	也	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 5	明白	明白	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=míngbái|LTranslit=míngbái
-6	，	，	PUNCT	,	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	必須	必須	AUX	MD	_	17	aux	_	SpaceAfter=No|Translit=bìxū|LTranslit=bìxū
-8	把	把	AUX	BB	Voice=Cau	17	aux	_	SpaceAfter=No|Translit=bǎ|LTranslit=bǎ
+6	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+7	必須	必須	AUX	MD	_	8	aux	_	SpaceAfter=No|Translit=bìxū|LTranslit=bìxū
+8	把	把	VERB	BB	Voice=Cau	5	xcomp	_	SpaceAfter=No|Translit=bǎ|LTranslit=bǎ
 9	現代	現代	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=xiàndài|LTranslit=xiàndài
 10	的	的	PART	DEC	Case=Gen	9	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	德國	德國	PROPN	NNP	_	15	obj	_	SpaceAfter=No|Translit=déguó|LTranslit=déguó
 12	和	和	CCONJ	CC	_	14	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 13	納粹	納粹	PROPN	NNP	_	14	compound	_	SpaceAfter=No|Translit=nàcuì|LTranslit=nàcuì
 14	政權	政權	NOUN	NN	_	11	conj	_	SpaceAfter=No|Translit=zhèngquán|LTranslit=zhèngquán
-15	分開	分開	VERB	VV	_	17	advcl	_	SpaceAfter=No|Translit=fēnkāi|LTranslit=fēnkāi
-16	來	來	ADV	RB	_	17	mark:prt	_	SpaceAfter=No|Translit=lái|LTranslit=lái
-17	看	看	VERB	VV	_	5	xcomp	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
-18	。	。	PUNCT	.	_	17	punct	_	Translit=.|LTranslit=.
+15	分開	分開	VERB	VV	_	8	advcl	_	SpaceAfter=No|Translit=fēnkāi|LTranslit=fēnkāi
+16	來	來	ADV	RB	_	8	mark:prt	_	SpaceAfter=No|Translit=lái|LTranslit=lái
+17	看	看	VERB	VV	_	8	xcomp	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
+18	。	。	PUNCT	.	_	8	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01079
 # sent_id = n01079015
