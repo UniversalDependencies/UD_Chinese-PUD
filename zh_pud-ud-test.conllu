@@ -9358,7 +9358,7 @@
 4	人士	人士	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=rénshì|LTranslit=rénshì
 5	在	在	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 6	猶豫	猶豫	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yóuyù|LTranslit=yóuyù
-7	要不要	要不要	AUX	MD	_	12	aux	_	SpaceAfter=No|Translit=yàobùyào|LTranslit=yàobùyào
+7	要不要	要	AUX	MD	Mood=Int	12	aux	_	SpaceAfter=No|Translit=yàobùyào|LTranslit=yào
 8	為	為	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 9	過世	過世	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=guòshì|LTranslit=guòshì
 10	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -23875,7 +23875,7 @@
 14	增加	增加	VERB	VV	_	12	xcomp	_	SpaceAfter=No|Translit=zēngjiā|LTranslit=zēngjiā
 15	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 16	但	但	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
-17	會不會	會不會	AUX	MD	_	18	aux	_	SpaceAfter=No|Translit=huìbùhuì|LTranslit=huìbùhuì
+17	會不會	會	AUX	MD	Mood=Int	18	aux	_	SpaceAfter=No|Translit=huìbùhuì|LTranslit=huì
 18	產生	產生	VERB	VV	_	23	csubj	_	SpaceAfter=No|Translit=chǎnshēng|LTranslit=chǎnshēng
 19	影響	影響	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=yǐngxiǎng|LTranslit=yǐngxiǎng
 20	還	還	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=hái|LTranslit=hái

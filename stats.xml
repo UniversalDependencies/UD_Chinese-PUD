@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>1000</sentences><tokens>21415</tokens><words>21415</words><fused>0</fused></test>
   </size>
-  <lemmas unique="5447" /><!-- 的, ，, 。, 在, 了, 是, 他, 一, 和, 年, 個, 為, 這, 有, 於 -->
+  <lemmas unique="5445" /><!-- 的, ，, 。, 在, 了, 是, 他, 一, 和, 年, 個, 為, 這, 有, 於 -->
   <forms unique="5477" /><!-- 的, ，, 。, 在, 了, 一, 是, 和, 年, 個, 他, 這, 為, 於, 中 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -32,11 +32,12 @@
     <tag name="X">306</tag><!-- BBC, CNN, the, Martin, Anaya, Andy, B.C., Barrosos, Catalano, DNA -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="13">
+  <feats unique="14">
     <feat name="Aspect" value="Perf" upos="AUX">357</feat><!-- 了, 過 -->
     <feat name="Aspect" value="Prog" upos="AUX">40</feat><!-- 著 -->
     <feat name="Case" value="Gen" upos="PART">709</feat><!-- 的, 之 -->
     <feat name="Foreign" value="Yes" upos="X">91</feat><!-- Anaya, Film, de, the, Amin, Antilles, Atkinson, Avery, Aviva, Bass -->
+    <feat name="Mood" value="Int" upos="AUX">2</feat><!-- 會不會, 要不要 -->
     <feat name="Number" value="Plur" upos="NOUN,PRON">158</feat><!-- 他們, 我們, 人們, 它們, 你們, 她們, 牠們 -->
     <feat name="NumType" value="Card" upos="NUM">873</feat><!-- 一, 兩, 很多, 三, 許多, 六, 多, 20, 10, 十 -->
     <feat name="NumType" value="Ord" upos="ADJ">46</feat><!-- 第一, 第二, 第三, 第31, 第45, 第96, 第四 -->
