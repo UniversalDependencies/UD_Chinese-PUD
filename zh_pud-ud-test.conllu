@@ -128,7 +128,7 @@
 1	“	“	PUNCT	``	_	20	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 2	所以	所以	ADV	RB	_	7	advmod	_	SpaceAfter=No|Translit=suǒyǐ|LTranslit=suǒyǐ
 3	我	我	PRON	PRP	Person=1	7	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-4	不想	不想	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=bùxiǎng|LTranslit=bùxiǎng
+4	不想	想	AUX	MD	Polarity=Neg	7	aux	_	SpaceAfter=No|Translit=bùxiǎng|LTranslit=xiǎng
 5	給	給	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=gěi|LTranslit=gěi
 6	你們	你們	PRON	PRP	Number=Plur|Person=2	5	obj	_	SpaceAfter=No|Translit=nǐmen|LTranslit=nǐmen
 7	施加	施加	VERB	VV	_	20	dep	_	SpaceAfter=No|Translit=shījiā|LTranslit=shījiā
@@ -396,7 +396,7 @@
 6	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	而	而	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 8	我們	我	PRON	PRP	Number=Plur|Person=1	9	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
-9	認為	認為	VERB	VV	_	28	dep	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+9	認為	為	VERB	VV	_	28	dep	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 10	政權	政權	NOUN	NN	_	11	compound	_	SpaceAfter=No|Translit=zhèngquán|LTranslit=zhèngquán
 11	轉移	轉移	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=zhuǎnyí|LTranslit=zhuǎnyí
 12	能	能	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
@@ -876,7 +876,7 @@
 3	韓國	韓國	PROPN	NNP	_	4	compound	_	SpaceAfter=No|Translit=韓guó|LTranslit=韓guó
 4	公司	公司	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=gōngsī|LTranslit=gōngsī
 5	最初	最初	NOUN	NN	_	6	obl:tmod	_	SpaceAfter=No|Translit=zuìchū|LTranslit=zuìchū
-6	以為	以為	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=yǐwèi|LTranslit=yǐwèi
+6	以為	為	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=yǐwèi|LTranslit=wèi
 7	電池	電池	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=diànchí|LTranslit=diànchí
 8	故障	故障	VERB	VV	_	11	csubj	_	SpaceAfter=No|Translit=gùzhàng|LTranslit=gùzhàng
 9	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -902,7 +902,7 @@
 # text_en = Several analysts have suggested Huawei is best placed to benefit from Samsung's setback.
 1	一些	一些	ADJ	JJ	_	2	amod	_	SpaceAfter=No|Translit=yīxiē|LTranslit=yīxiē
 2	分析家	分析家	VERB	VV	_	3	nsubj	_	SpaceAfter=No|Translit=fēnxījiā|LTranslit=fēnxījiā
-3	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+3	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 4	華為	華為	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No|Translit=huáwèi|LTranslit=huáwèi
 5	最	最	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=zuì|LTranslit=zuì
 6	有	有	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
@@ -1039,7 +1039,7 @@
 2	多數	多數	ADJ	JJ	_	3	amod	_	SpaceAfter=No|Translit=duōshù|LTranslit=duōshù
 3	人	人	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 4	會	會	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
-5	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+5	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 6	機場	機場	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=jīchǎng|LTranslit=jīchǎng
 7	Wi-Fi	Wi-Fi	X	FW	_	20	nsubj	_	SpaceAfter=No|Translit=Wi-Fi|LTranslit=Wi-Fi
 8	比	比	ADP	IN	_	13	mark	_	SpaceAfter=No|Translit=bǐ|LTranslit=bǐ
@@ -1093,7 +1093,7 @@
 # text_en = The 10-week course has been "certified" by UK spy agency GCHQ.
 1	這	這	DET	DT	_	2	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 2	項	項	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
-3	為期	為期	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=wèiqī|LTranslit=wèiqī
+3	為期	為	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=wèiqī|LTranslit=wèi
 4	10	10	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=10|LTranslit=10
 5	週	週	NOUN	NNB	_	3	obj	_	SpaceAfter=No|Translit=週|LTranslit=週
 6	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -1610,7 +1610,7 @@
 28	月	月	NOUN	NN	_	25	obl:tmod	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 29	，	，	PUNCT	,	_	25	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 30	而	而	ADV	RB	_	41	advmod	_	SpaceAfter=No|Translit='ér|LTranslit='ér
-31	不會	不會	AUX	MD	_	41	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=bùhuì
+31	不會	會	AUX	MD	Polarity=Neg	41	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
 32	對	對	ADP	IN	_	40	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 33	它們	它	PRON	PRP	Number=Plur|Person=3	40	compound	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 34	在	在	VERB	VV	_	38	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -2209,7 +2209,7 @@
 1	然而	然而	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=rán'ér|LTranslit=rán'ér
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	他們	他	PRON	PRP	Number=Plur|Person=3	11	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
-4	未能	未能	AUX	MD	_	11	aux	_	SpaceAfter=No|Translit=wèinéng|LTranslit=wèinéng
+4	未能	能	AUX	MD	Polarity=Neg	11	aux	_	SpaceAfter=No|Translit=wèinéng|LTranslit=néng
 5	在	在	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 6	諸如	諸如	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No|Translit=zhūrú|LTranslit=zhūrú
 7	膀胱	膀胱	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=bǎng胱|LTranslit=bǎng胱
@@ -2223,7 +2223,7 @@
 15	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 16	它們	它	PRON	PRP	Number=Plur|Person=3	18	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 17	並	並	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-18	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+18	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 19	直接	直接	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit=zhíjiē|LTranslit=zhíjiē
 20	暴露	暴露	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit=bàolù|LTranslit=bàolù
 21	出	出	VERB	VV	_	20	mark:prt	_	SpaceAfter=No|Translit=chū|LTranslit=chū
@@ -2393,7 +2393,7 @@
 6	克萊恩	克萊恩	PROPN	NNP	_	9	nsubj	_	SpaceAfter=No|Translit=kèlái'ēn|LTranslit=kèlái'ēn
 7	似乎	似乎	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=shìhu|LTranslit=shìhu
 8	並	並	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-9	沒有	沒有	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+9	沒有	有	VERB	VV	Polarity=Neg	3	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 10	犯罪	犯罪	NOUN	NN	_	11	compound	_	SpaceAfter=No|Translit=fànzuì|LTranslit=fànzuì
 11	歷史	歷史	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=lìshǐ|LTranslit=lìshǐ
 12	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -2417,7 +2417,7 @@
 # text_en = "We do not believe the suspect has ties to this school, or to the two girls, or specifically to the Abbotsford area," she said.
 1	我們	我	PRON	PRP	Number=Plur|Person=1	3	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
 2	不	不	ADV	RB	Polarity=Neg	3	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
-3	認為	認為	VERB	VV	_	27	dep	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+3	認為	為	VERB	VV	_	27	dep	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 4	嫌疑人	嫌疑人	NOUN	NN	_	22	nsubj	_	SpaceAfter=No|Translit=xiányírén|LTranslit=xiányírén
 5	與	與	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ
 6	這	這	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
@@ -2822,7 +2822,7 @@
 2	說	說	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
 3	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 4	醫生	醫生	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=yīshēng|LTranslit=yīshēng
-5	沒有	沒有	VERB	VV	_	10	dep	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+5	沒有	有	VERB	VV	Polarity=Neg	10	dep	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 6	這些	這些	DET	DT	_	7	det	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
 7	工具	工具	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=gōngjù|LTranslit=gōngjù
 8	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -3049,7 +3049,7 @@
 27	信心	信心	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=xìnxīn|LTranslit=xìnxīn
 28	是	是	VERB	VC	_	16	ccomp	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 29	必	必	AUX	MD	_	31	aux	_	SpaceAfter=No|Translit=bì|LTranslit=bì
-30	不可	不可	AUX	MD	_	31	aux	_	SpaceAfter=No|Translit=bùkě|LTranslit=bùkě
+30	不可	可	AUX	MD	Polarity=Neg	31	aux	_	SpaceAfter=No|Translit=bùkě|LTranslit=kě
 31	少	少	VERB	VV	_	28	xcomp	_	SpaceAfter=No|Translit=shǎo|LTranslit=shǎo
 32	的	的	PART	UH	_	28	discourse:sp	_	SpaceAfter=No|Translit=de|LTranslit=de
 33	。	。	PUNCT	.	_	16	punct	_	Translit=.|LTranslit=.
@@ -3173,7 +3173,7 @@
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	手機	手機	NOUN	NN	_	5	nsubj	_	SpaceAfter=No|Translit=shǒujī|LTranslit=shǒujī
 4	遠	遠	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=yuǎn|LTranslit=yuǎn
-5	不止	不止	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bùzhǐ|LTranslit=bùzhǐ
+5	不止	止	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=bùzhǐ|LTranslit=zhǐ
 6	是	是	AUX	VC	_	7	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 7	電話	電話	NOUN	NN	_	5	xcomp	_	SpaceAfter=No|Translit=diànhuà|LTranslit=diànhuà
 8	。	。	PUNCT	.	_	5	punct	_	Translit=.|LTranslit=.
@@ -3342,7 +3342,7 @@
 1	但是	但是	ADV	RB	_	34	advmod	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	如果	如果	ADP	IN	_	8	mark	_	SpaceAfter=No|Translit=rúguǒ|LTranslit=rúguǒ
-4	沒有	沒有	VERB	VV	_	8	advcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+4	沒有	有	VERB	VV	Polarity=Neg	8	advcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 5	法律	法律	NOUN	NN	_	6	compound	_	SpaceAfter=No|Translit=fǎlǜ|LTranslit=fǎlǜ
 6	框架	框架	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=kuāngjià|LTranslit=kuāngjià
 7	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -3730,7 +3730,7 @@
 6	許多	許多	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=xǔduō|LTranslit=xǔduō
 7	人	人	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 8	都	都	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-9	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+9	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 10	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	他們	他	PRON	PRP	Number=Plur|Person=3	12	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 12	輕視	輕視	VERB	VV	_	9	ccomp	_	SpaceAfter=No|Translit=qīngshì|LTranslit=qīngshì
@@ -3810,7 +3810,7 @@
 10	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 11	個	個	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 12	必	必	AUX	MD	_	14	aux	_	SpaceAfter=No|Translit=bì|LTranslit=bì
-13	不可	不可	AUX	MD	_	14	aux	_	SpaceAfter=No|Translit=bùkě|LTranslit=bùkě
+13	不可	可	AUX	MD	Polarity=Neg	14	aux	_	SpaceAfter=No|Translit=bùkě|LTranslit=kě
 14	少	少	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No|Translit=shǎo|LTranslit=shǎo
 15	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	工具	工具	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=gōngjù|LTranslit=gōngjù
@@ -3983,7 +3983,7 @@
 1	共和黨	共和黨	NOUN	NN	_	2	compound	_	Proper=True|SpaceAfter=No|Translit=gònghédǎng|LTranslit=gònghédǎng
 2	經濟學家	經濟學家	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=jīngjìxuéjiā|LTranslit=jīngjìxuéjiā
 3	告誡	告誡	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gàojiè|LTranslit=gàojiè
-4	不要	不要	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=bùyào|LTranslit=bùyào
+4	不要	要	AUX	MD	Polarity=Neg	5	aux	_	SpaceAfter=No|Translit=bùyào|LTranslit=yào
 5	採用	採用	VERB	VV	_	11	advcl	_	SpaceAfter=No|Translit=cǎiyòng|LTranslit=cǎiyòng
 6	這	這	DET	DT	_	8	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 7	一	一	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
@@ -4062,7 +4062,7 @@
 17	但	但	ADV	RB	_	21	advmod	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 18	這	這	PRON	PRD	_	21	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 19	並	並	ADV	RB	_	21	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-20	不能	不能	AUX	MD	_	21	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=bùnéng
+20	不能	能	AUX	MD	Polarity=Neg	21	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=néng
 21	抹殺	抹殺	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=mǒshā|LTranslit=mǒshā
 22	牠們	牠	PRON	PRP	Number=Plur|Person=3	26	nmod	_	SpaceAfter=No|Translit=牠men|LTranslit=牠
 23	的	的	PART	DEC	Case=Gen	22	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -4379,7 +4379,7 @@
 # translit = bǎilātúrènwèi,jiāngquánlìshòuyǔjīngxīnpéiyùdeshǒuhùzhěmen'ānquándeduō.
 # text_en = It would be much safer, Plato thought, to entrust power to carefully educated guardians.
 1	柏拉圖	柏拉圖	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=bǎilātú|LTranslit=bǎilātú
-2	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+2	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 3	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 4	將	將	ADP	BB	Voice=Cau	5	case	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
 5	權力	權力	NOUN	NN	_	6	obl:patient	_	SpaceAfter=No|Translit=quánlì|LTranslit=quánlì
@@ -4437,7 +4437,7 @@
 12	比	比	ADP	IN	_	18	mark	_	SpaceAfter=No|Translit=bǐ|LTranslit=bǐ
 13	在	在	ADP	IN	_	15	mark	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 14	尼羅河	尼羅河	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=níluóhé|LTranslit=níluóhé
-15	沒有	沒有	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+15	沒有	有	VERB	VV	Polarity=Neg	18	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 16	氾濫	氾濫	VERB	VV	_	15	xcomp	_	SpaceAfter=No|Translit=氾làn|LTranslit=氾làn
 17	時	時	ADP	IN	_	15	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
 18	殺掉	殺掉	VERB	VV	_	20	xcomp	_	SpaceAfter=No|Translit=shādiào|LTranslit=shādiào
@@ -4463,7 +4463,7 @@
 10	行為	行為	NOUN	NN	_	3	conj	_	SpaceAfter=No|Translit=xíngwèi|LTranslit=xíngwèi
 11	當中	當中	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=dāngzhōng|LTranslit=dāngzhōng
 12	並	並	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-13	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+13	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 14	顯然	顯然	ADJ	JJ	_	15	amod	_	SpaceAfter=No|Translit=xiǎnrán|LTranslit=xiǎnrán
 15	藝術性	藝術性	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=yìshùxìng|LTranslit=yìshùxìng
 16	的	的	PART	DEC	Case=Gen	15	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -4489,7 +4489,7 @@
 12	Traum，	Traum，	X	FW	Foreign=Yes	11	flat	_	Proper=True|SpaceAfter=No|Translit=Traum,|LTranslit=Traum,
 13	”	”	PUNCT	''	_	11	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 14	為	為	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
-15	不願	不願	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=bù願|LTranslit=bù願
+15	不願	願	AUX	MD	Polarity=Neg	16	aux	_	SpaceAfter=No|Translit=bù願|LTranslit=願
 16	看見	看見	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=kànjiàn|LTranslit=kànjiàn
 17	草稿	草稿	NOUN	NN	_	18	compound	_	SpaceAfter=No|Translit=cǎogǎo|LTranslit=cǎogǎo
 18	風格	風格	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=fēnggé|LTranslit=fēnggé
@@ -4888,7 +4888,7 @@
 18	：	：	PUNCT	:	_	21	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
 19	“	“	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 20	我	我	PRON	PRP	Person=1	21	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-21	沒有	沒有	VERB	VV	_	17	appos	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+21	沒有	有	VERB	VV	Polarity=Neg	17	appos	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 22	見	見	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=jiàn|LTranslit=jiàn
 23	過	過	AUX	AS	Aspect=Perf	22	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
 24	有	有	VERB	VV	_	22	xcomp	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
@@ -5362,7 +5362,7 @@
 # translit = wǒmenbùnéngràngtángnà·chuānpǔzhèzhǒngzhǒngzúzhǔyìzhě,xìngbié歧shìzhěchéngwèizǒngtǒng,zuòzǒngzhǐhuīdehuà,tājíqíbùhégé.
 # text_en = We can’t let the presidency go to Donald Trump, someone so racist, sexist and incredibly unqualified to be commander-in-chief.
 1	我們	我	PRON	PRP	Number=Plur|Person=1	3	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
-2	不能	不能	AUX	MD	_	3	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=bùnéng
+2	不能	能	AUX	MD	Polarity=Neg	3	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=néng
 3	讓	讓	VERB	VV	Voice=Cau	25	dep	_	SpaceAfter=No|Translit=ràng|LTranslit=ràng
 4	唐納	唐納	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No|Translit=tángnà|LTranslit=tángnà
 5	·	·	PUNCT	/	_	6	punct	_	Proper=True|SpaceAfter=No|Translit=·|LTranslit=·
@@ -5452,7 +5452,7 @@
 17	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 18	但	但	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 19	卻	卻	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit=què|LTranslit=què
-20	沒有	沒有	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+20	沒有	有	VERB	VV	Polarity=Neg	4	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 21	為	為	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 22	他們	他	PRON	PRP	Number=Plur|Person=3	23	obl	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 23	提供	提供	VERB	VV	_	20	xcomp	_	SpaceAfter=No|Translit=tígōng|LTranslit=tígōng
@@ -5789,7 +5789,7 @@
 # translit = wǒrènwèizhèshìtāmentáozuìyútú'ànhéyánsèdeyuányīn.
 # text_en = I think that’s why they immersed themselves in pattern and colour.
 1	我	我	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-2	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+2	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 3	這	這	PRON	PRD	_	12	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 4	是	是	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 5	他們	他	PRON	PRP	Number=Plur|Person=3	6	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
@@ -6394,11 +6394,11 @@
 6	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 7	他們	他	PRON	PRP	Number=Plur|Person=3	9	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 8	還	還	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=hái|LTranslit=hái
-9	沒有	沒有	VERB	VV	_	20	dep	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+9	沒有	有	VERB	VV	Polarity=Neg	20	dep	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 10	這些	這些	DET	DT	_	9	obj	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
 11	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 12	那些	那些	DET	DT	_	16	det	_	SpaceAfter=No|Translit=nàxiē|LTranslit=nàxiē
-13	沒有	沒有	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+13	沒有	有	VERB	VV	Polarity=Neg	16	acl:relcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 14	孩子	孩子	NOUN	NN	_	13	obj	_	SpaceAfter=No|Translit=háizi|LTranslit=háizi
 15	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	人	人	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
@@ -6422,7 +6422,7 @@
 # translit = wǒbùhuìqīngyìdechēngzhīwèiyěshòu.
 # text_en = I don’t call it a beast lightly.
 1	我	我	PRON	PRP	Person=1	5	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-2	不會	不會	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=bùhuì
+2	不會	會	AUX	MD	Polarity=Neg	5	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
 3	輕易	輕易	ADJ	JJ	_	5	advmod	_	SpaceAfter=No|Translit=qīngyì|LTranslit=qīngyì
 4	地	地	PART	DEV	_	5	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	稱	稱	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chēng|LTranslit=chēng
@@ -6698,7 +6698,7 @@
 13	（	（	PUNCT	(	_	16	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
 14	人們	人	NOUN	NN	Number=Plur	16	nsubj	_	SpaceAfter=No|Translit=rénmen|LTranslit=rén
 15	普遍	普遍	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=pǔbiàn|LTranslit=pǔbiàn
-16	認為	認為	VERB	VV	_	10	dep	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+16	認為	為	VERB	VV	_	10	dep	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 17	蛹	蛹	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=蛹|LTranslit=蛹
 18	很	很	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
 19	美味	美味	ADJ	JJ	_	16	ccomp	_	SpaceAfter=No|Translit=měiwèi|LTranslit=měiwèi
@@ -6785,7 +6785,7 @@
 7	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	香港	香港	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=xiānggǎng|LTranslit=xiānggǎng
 9	政府	政府	NOUN	NN	_	10	nsubj	_	Proper=True|SpaceAfter=No|Translit=zhèngfǔ|LTranslit=zhèngfǔ
-10	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+10	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 11	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 12	這	這	DET	DT	_	14	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 13	兩	兩	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
@@ -6803,7 +6803,7 @@
 # text_en = “Beijing believes its intervention is necessary to prevent a continued legislative paralysis in the city,” he said.
 1	“	“	PUNCT	``	_	3	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 2	北京	北京	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=běijīng|LTranslit=běijīng
-3	認為	認為	VERB	VV	_	23	dep	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+3	認為	為	VERB	VV	_	23	dep	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 4	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	為了	為了	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=wèile|LTranslit=wèile
 6	防止	防止	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit=fángzhǐ|LTranslit=fángzhǐ
@@ -6914,7 +6914,7 @@
 7	打	打	VERB	VV	_	11	csubj	_	SpaceAfter=No|Translit=dǎ|LTranslit=dǎ
 8	平手	平手	NOUN	NN	_	7	obj	_	SpaceAfter=No|Translit=píngshǒu|LTranslit=píngshǒu
 9	並	並	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-10	不能	不能	AUX	MD	_	11	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=bùnéng
+10	不能	能	AUX	MD	Polarity=Neg	11	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=néng
 11	證明	證明	VERB	VV	_	24	dep	_	SpaceAfter=No|Translit=zhèngmíng|LTranslit=zhèngmíng
 12	什麼	什麼	PRON	WP	_	11	obj	_	SpaceAfter=No|Translit=shénme|LTranslit=shénme
 13	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -7434,7 +7434,7 @@
 13	儲蓄	儲蓄	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=chǔxù|LTranslit=chǔxù
 14	賬戶	賬戶	NOUN	NN	_	16	obl	_	SpaceAfter=No|Translit=賬hù|LTranslit=賬hù
 15	將	將	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
-16	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+16	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 17	任何	任何	DET	DT	_	18	det	_	SpaceAfter=No|Translit=rènhé|LTranslit=rènhé
 18	區別	區別	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=qūbié|LTranslit=qūbié
 19	。	。	PUNCT	.	_	16	punct	_	Translit=.|LTranslit=.
@@ -7474,7 +7474,7 @@
 # text_en = This has not stopped investors flocking to put their money in the funds.
 1	這	這	PRON	PRD	_	3	nsubj	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 2	並	並	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-3	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+3	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 4	阻止	阻止	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=zǔzhǐ|LTranslit=zǔzhǐ
 5	投資者們	投資者們	VERB	VV	_	10	nsubj	_	SpaceAfter=No|Translit=tóuzīzhěmen|LTranslit=tóuzīzhěmen
 6	成群結隊	成群結隊	VERB	VV	_	10	advcl	_	SpaceAfter=No|Translit=chéngqúnjiéduì|LTranslit=chéngqúnjiéduì
@@ -7548,7 +7548,7 @@
 2	意味	意味	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yìwèi|LTranslit=yìwèi
 3	著	著	AUX	AS	Aspect=Prog	2	aux	_	SpaceAfter=No|Translit=zhe|LTranslit=zhe
 4	他們	他	PRON	PRP	Number=Plur|Person=3	18	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
-5	不能	不能	AUX	MD	_	18	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=bùnéng
+5	不能	能	AUX	MD	Polarity=Neg	18	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=néng
 6	像	像	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 7	海外	海外	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=hǎiwài|LTranslit=hǎiwài
 8	資產	資產	NOUN	NN	_	9	nmod	_	SpaceAfter=No|Translit=zīchǎn|LTranslit=zīchǎn
@@ -7768,7 +7768,7 @@
 # text_en = Last year was an incredible year and I’m ready for us to come back even better in 2017.
 1	去年	去年	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=qùnián|LTranslit=qùnián
 2	是	是	AUX	VC	_	6	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-3	不可思議	不可思議	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit=bùkěsīyì|LTranslit=bùkěsīyì
+3	不可思議	可思議	VERB	VV	Polarity=Neg	6	acl:relcl	_	SpaceAfter=No|Translit=bùkěsīyì|LTranslit=kěsīyì
 4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	一	一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 6	年	年	NOUN	NNB	_	10	dep	_	SpaceAfter=No|Translit=nián|LTranslit=nián
@@ -8189,7 +8189,7 @@
 9	我們	我	PRON	PRP	Number=Plur|Person=1	12	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
 10	也	也	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 11	都	都	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
-12	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+12	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 13	那	那	PRON	PRD	_	15	nsubj	_	SpaceAfter=No|Translit=nà|LTranslit=nà
 14	會	會	AUX	MD	_	15	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 15	是	是	VERB	VC	_	12	ccomp	_	SpaceAfter=No|Translit=shì|LTranslit=shì
@@ -8279,7 +8279,7 @@
 11	黑暗	黑暗	NOUN	NN	_	12	compound	_	SpaceAfter=No|Translit=hēi'àn|LTranslit=hēi'àn
 12	行為	行為	NOUN	NN	_	14	nsubj	_	SpaceAfter=No|Translit=xíngwèi|LTranslit=xíngwèi
 13	並	並	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-14	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+14	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 15	發生	發生	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=fāshēng|LTranslit=fāshēng
 16	。	。	PUNCT	.	_	14	punct	_	Translit=.|LTranslit=.
 
@@ -8336,7 +8336,7 @@
 # text_en = No longer a throwback to the Seventies, flock – or coating a surface is material – is flying again.
 1	再	再	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 2	也	也	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
-3	不會	不會	AUX	MD	_	4	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=bùhuì
+3	不會	會	AUX	MD	Polarity=Neg	4	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
 4	倒退	倒退	VERB	VV	_	23	dep	_	SpaceAfter=No|Translit=dàotuì|LTranslit=dàotuì
 5	回	回	VERB	VV	_	4	mark:prt	_	SpaceAfter=No|Translit=huí|LTranslit=huí
 6	七十	七十	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=qīshí|LTranslit=qīshí
@@ -8971,7 +8971,7 @@
 # text_en = He is credited with helping efforts to tackle the mountain of debt accumulated by local governments in China.
 1	他	他	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 2	被	被	AUX	BB	Voice=Pass	3	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-3	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+3	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 4	能	能	AUX	MD	_	6	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
 5	鼎力	鼎力	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=鼎lì|LTranslit=鼎lì
 6	協助	協助	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=xiézhù|LTranslit=xiézhù
@@ -9193,7 +9193,7 @@
 # translit = wǒméikànjǐjíshǒujījiùxiǎngle.
 # text_en = I hadn't seen a lot of the episodes and then my phone started lighting up.
 1	我	我	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-2	沒看	沒看	VERB	VV	_	7	dep	_	SpaceAfter=No|Translit=méikàn|LTranslit=méikàn
+2	沒看	看	VERB	VV	Polarity=Neg	7	dep	_	SpaceAfter=No|Translit=méikàn|LTranslit=kàn
 3	幾	幾	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=jǐ|LTranslit=jǐ
 4	集	集	NOUN	NNB	_	2	obj	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 5	手機	手機	NOUN	NN	_	7	nsubj	_	SpaceAfter=No|Translit=shǒujī|LTranslit=shǒujī
@@ -9469,7 +9469,7 @@
 10	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	希望	希望	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xīwàng|LTranslit=xīwàng
 12	用戶	用戶	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=yònghù|LTranslit=yònghù
-13	不要	不要	AUX	MD	_	18	aux	_	SpaceAfter=No|Translit=bùyào|LTranslit=bùyào
+13	不要	要	AUX	MD	Polarity=Neg	18	aux	_	SpaceAfter=No|Translit=bùyào|LTranslit=yào
 14	只	只	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=zhǐ|LTranslit=zhǐ
 15	把	把	ADP	BB	Voice=Cau	17	case	_	SpaceAfter=No|Translit=bǎ|LTranslit=bǎ
 16	其	其	PRON	PRP	Person=3	17	compound	_	SpaceAfter=No|Translit=qí|LTranslit=qí
@@ -9684,7 +9684,7 @@
 18	很	很	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit=hěn|LTranslit=hěn
 19	明顯	明顯	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=míngxiǎn|LTranslit=míngxiǎn
 20	他	他	PRON	PRP	Person=3	23	nsubj:pass	_	SpaceAfter=No|Translit=tā|LTranslit=tā
-21	不想	不想	AUX	MD	_	23	aux	_	SpaceAfter=No|Translit=bùxiǎng|LTranslit=bùxiǎng
+21	不想	想	AUX	MD	Polarity=Neg	23	aux	_	SpaceAfter=No|Translit=bùxiǎng|LTranslit=xiǎng
 22	被	被	AUX	BB	Voice=Pass	23	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 23	賣掉	賣掉	VERB	VV	_	16	ccomp	_	SpaceAfter=No|Translit=màidiào|LTranslit=màidiào
 24	。	。	PUNCT	.	_	16	punct	_	Translit=.|LTranslit=.
@@ -9695,7 +9695,7 @@
 # translit = xuěrénméiyǒuqùxiǎngrènhéguānyúqiángní·kǎsēn(Johnny Carson)deshì,zhǐshìnáleyīgètīdèng,zuòhuídàotāmiànqián,tābǔchōngdào.
 # text_en = "Snowman didn't think anything of Johnny Carson getting a step ladder and sitting back to front on him," he adds.
 1	雪人	雪人	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=xuěrén|LTranslit=xuěrén
-2	沒有	沒有	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+2	沒有	有	VERB	VV	Polarity=Neg	18	advcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 3	去	去	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=qù|LTranslit=qù
 4	想	想	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=xiǎng|LTranslit=xiǎng
 5	任何	任何	DET	DT	_	15	det	_	SpaceAfter=No|Translit=rènhé|LTranslit=rènhé
@@ -9750,12 +9750,12 @@
 # text = 沒有遊行，從來就沒有過遊行。
 # translit = méiyǒuyóuxíng,cóngláijiùméiyǒuguòyóuxíng.
 # text_en = There is no parade and there never has been.
-1	沒有	沒有	VERB	VV	_	6	dep	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+1	沒有	有	VERB	VV	Polarity=Neg	6	dep	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 2	遊行	遊行	VERB	VV	_	1	xcomp	_	SpaceAfter=No|Translit=yóuxíng|LTranslit=yóuxíng
 3	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 4	從來	從來	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=cónglái|LTranslit=cónglái
 5	就	就	ADV	RB	_	6	advmod	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
-6	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+6	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 7	過	過	AUX	AS	Aspect=Perf	6	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
 8	遊行	遊行	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=yóuxíng|LTranslit=yóuxíng
 9	。	。	PUNCT	.	_	6	punct	_	Translit=.|LTranslit=.
@@ -9811,7 +9811,7 @@
 21	為	為	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 22	什麼	什麼	PRON	WP	_	24	obl	_	SpaceAfter=No|Translit=shénme|LTranslit=shénme
 23	墨西哥	墨西哥	PROPN	NNP	_	24	nsubj	_	SpaceAfter=No|Translit=mòxigē|LTranslit=mòxigē
-24	認為	認為	VERB	VV	_	19	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+24	認為	為	VERB	VV	_	19	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 25	現在	現在	NOUN	NN	_	33	nsubj	_	SpaceAfter=No|Translit=xiànzài|LTranslit=xiànzài
 26	是	是	AUX	VC	_	33	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 27	上演	上演	VERB	VV	_	33	acl:relcl	_	SpaceAfter=No|Translit=shàngyǎn|LTranslit=shàngyǎn
@@ -9880,7 +9880,7 @@
 # translit = wǒrènwèirìběnzhèngfǔxīwàng藉yóuwánchéngcífúxiàndejiànshèkàndàorìběnjīngjìdàfúzēngzhǎng.
 # text_en = By completing this maglev line, I think the government is expecting bigger economical development in Japan.
 1	我	我	PRON	PRP	Person=1	2	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
-2	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+2	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 3	日本	日本	PROPN	NNP	_	4	compound	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
 4	政府	政府	NOUN	NN	_	5	nsubj	_	Proper=True|SpaceAfter=No|Translit=zhèngfǔ|LTranslit=zhèngfǔ
 5	希望	希望	VERB	VV	_	2	ccomp	_	SpaceAfter=No|Translit=xīwàng|LTranslit=xīwàng
@@ -10174,7 +10174,7 @@
 # translit = jiànzhúbùnéngbāngzhùyǐgùzhīrén,dànyǒuzhùyútāmendejìyìzàishēngzhězhīzhōngyǒngbǎoxiānhuó,tāshuō.
 # text_en = "Architecture won't help deceased people, but it helps to keep their memories alive among the living," he says.
 1	建築	建築	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=jiànzhú|LTranslit=jiànzhú
-2	不能	不能	AUX	MD	_	3	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=bùnéng
+2	不能	能	AUX	MD	Polarity=Neg	3	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=néng
 3	幫助	幫助	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=bāngzhù|LTranslit=bāngzhù
 4	已故	已故	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit=yǐgù|LTranslit=yǐgù
 5	之	之	PART	DEC	_	4	mark:rel	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
@@ -10957,7 +10957,7 @@
 24	冰島語	冰島語	PROPN	NNP	_	34	obl	_	SpaceAfter=No|Translit=bīngdǎoyǔ|LTranslit=bīngdǎoyǔ
 25	中	中	ADP	IN	_	24	case:loc	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
 26	幾乎	幾乎	ADV	RB	_	27	advmod	_	SpaceAfter=No|Translit=jǐhu|LTranslit=jǐhu
-27	沒有	沒有	VERB	VV	_	34	advcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+27	沒有	有	VERB	VV	Polarity=Neg	34	advcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 28	借用	借用	VERB	VV	_	27	xcomp	_	SpaceAfter=No|Translit=jièyòng|LTranslit=jièyòng
 29	丹麥語	丹麥語	PROPN	NNP	_	31	nmod	_	SpaceAfter=No|Translit=dānmàiyǔ|LTranslit=dānmàiyǔ
 30	的	的	PART	DEC	Case=Gen	29	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -11026,7 +11026,7 @@
 13	但	但	ADV	RB	_	28	advmod	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 14	在	在	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 15	被	被	AUX	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-16	認為	認為	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+16	認為	為	VERB	VV	_	24	acl:relcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 17	具有	具有	VERB	VV	_	16	xcomp	_	SpaceAfter=No|Translit=jùyǒu|LTranslit=jùyǒu
 18	不同	不同	ADJ	JJ	_	20	amod	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
 19	語言	語言	NOUN	NN	_	20	compound	_	SpaceAfter=No|Translit=yǔyán|LTranslit=yǔyán
@@ -11780,7 +11780,7 @@
 9	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	他們	他	PRON	PRP	Number=Plur|Person=3	12	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 11	曾	曾	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
-12	認為	認為	VERB	VV	_	24	dep	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+12	認為	為	VERB	VV	_	24	dep	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 13	丹內維爾克	丹內維爾克	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No|Translit=dānnèiwéi'ěrkè|LTranslit=dānnèiwéi'ěrkè
 14	是	是	VERB	VC	_	12	ccomp	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 15	堅不可摧	堅不可摧	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=jiānbùkěcuī|LTranslit=jiānbùkěcuī
@@ -11888,7 +11888,7 @@
 10	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 11	人	人	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 12	誤	誤	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=wù|LTranslit=wù
-13	以為	以為	VERB	VV	_	10	ccomp	_	SpaceAfter=No|Translit=yǐwèi|LTranslit=yǐwèi
+13	以為	為	VERB	VV	_	10	ccomp	_	SpaceAfter=No|Translit=yǐwèi|LTranslit=wèi
 14	這	這	DET	DT	_	15	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
 15	個	個	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 16	平原	平原	NOUN	NN	_	22	nsubj	_	SpaceAfter=No|Translit=píngyuán|LTranslit=píngyuán
@@ -12033,7 +12033,7 @@
 15	到	到	VERB	VV	_	18	advcl	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 16	藍綠色	藍綠色	NOUN	NN	_	15	obj	_	SpaceAfter=No|Translit=lánlǜsè|LTranslit=lánlǜsè
 17	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-18	不一而足	不一而足	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bùyī'érzú|LTranslit=bùyī'érzú
+18	不一而足	一而足	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=bùyī'érzú|LTranslit=yī'érzú
 19	。	。	PUNCT	.	_	18	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = w01029
@@ -12295,7 +12295,7 @@
 1	一般	一般	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=yībān|LTranslit=yībān
 2	它們	它	PRON	PRP	Number=Plur|Person=3	5	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 3	也	也	ADV	RB	_	5	advmod	_	SpaceAfter=No|Translit=yě|LTranslit=yě
-4	不會	不會	AUX	MD	_	5	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=bùhuì
+4	不會	會	AUX	MD	Polarity=Neg	5	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
 5	發生	發生	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=fāshēng|LTranslit=fāshēng
 6	災難性	災難性	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=zāinánxìng|LTranslit=zāinánxìng
 7	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -12856,7 +12856,7 @@
 10	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	這些	這些	DET	DT	_	12	det	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
 12	土地	土地	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=tǔde|LTranslit=tǔde
-13	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+13	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 14	獲得	獲得	VERB	VV	_	13	xcomp	_	SpaceAfter=No|Translit=huòde|LTranslit=huòde
 15	植被	植被	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=zhíbèi|LTranslit=zhíbèi
 16	的	的	PART	DEC	Case=Gen	15	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -13618,7 +13618,7 @@
 5	的	的	PART	DEC	_	4	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	中華	中華	PROPN	NNP	_	7	compound	_	SpaceAfter=No|Translit=zhōnghuá|LTranslit=zhōnghuá
 7	民國	民國	NOUN	NN	_	8	nsubj	_	Proper=True|SpaceAfter=No|Translit=mínguó|LTranslit=mínguó
-8	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+8	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 9	蒙古	蒙古	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=ménggǔ|LTranslit=ménggǔ
 10	是	是	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 11	其	其	PRON	PRP	Person=3	12	compound	_	SpaceAfter=No|Translit=qí|LTranslit=qí
@@ -13640,7 +13640,7 @@
 5	的	的	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 6	袁	袁	PROPN	NNP	_	8	nsubj	_	SpaceAfter=No|Translit=袁|LTranslit=袁
 7	世凱	世凱	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|Translit=shì凱|LTranslit=shì凱
-8	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+8	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 9	新共和國	新共和國	NOUN	NN	_	13	nsubj	_	Proper=True|SpaceAfter=No|Translit=xīngònghéguó|LTranslit=xīngònghéguó
 10	是	是	AUX	VC	_	13	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 11	清朝	清朝	PROPN	NNP	_	13	obl	_	SpaceAfter=No|Translit=qīngcháo|LTranslit=qīngcháo
@@ -13847,7 +13847,7 @@
 15	小時	小時	NOUN	NNB	_	20	obl	_	SpaceAfter=No|Translit=xiǎoshí|LTranslit=xiǎoshí
 16	後	後	ADP	IN	_	15	case:loc	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
 17	才	才	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit=cái|LTranslit=cái
-18	不慌不忙	不慌不忙	VERB	VV	_	20	advcl	_	SpaceAfter=No|Translit=bùhuāngbùmáng|LTranslit=bùhuāngbùmáng
+18	不慌不忙	慌不忙	VERB	VV	Polarity=Neg	20	advcl	_	SpaceAfter=No|Translit=bùhuāngbùmáng|LTranslit=huāngbùmáng
 19	地	地	PART	DEV	_	20	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
 20	穿上	穿上	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=chuānshàng|LTranslit=chuānshàng
 21	了	了	AUX	AS	Aspect=Perf	20	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -14124,7 +14124,7 @@
 23	詩文	詩文	NOUN	NN	_	26	obl	_	SpaceAfter=No|Translit=shīwén|LTranslit=shīwén
 24	而	而	ADV	RB	_	26	advmod	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 25	永世	永世	NOUN	NN	_	26	obl:tmod	_	SpaceAfter=No|Translit=yǒngshì|LTranslit=yǒngshì
-26	不朽	不朽	VERB	VV	_	14	conj	_	SpaceAfter=No|Translit=bùxiǔ|LTranslit=bùxiǔ
+26	不朽	朽	VERB	VV	Polarity=Neg	14	conj	_	SpaceAfter=No|Translit=bùxiǔ|LTranslit=xiǔ
 27	。	。	PUNCT	.	_	2	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = w01058
@@ -14959,7 +14959,7 @@
 7	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	查爾斯	查爾斯	PROPN	NNP	_	10	nsubj:pass	_	SpaceAfter=No|Translit=chá'ěrsī|LTranslit=chá'ěrsī
 9	被	被	AUX	BB	Voice=Pass	10	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
-10	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+10	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 11	是	是	AUX	VC	_	21	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 12	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 13	個	個	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
@@ -15268,7 +15268,7 @@
 13	把	把	ADP	BB	Voice=Cau	15	case	_	SpaceAfter=No|Translit=bǎ|LTranslit=bǎ
 14	該	該	DET	DT	_	15	det	_	SpaceAfter=No|Translit=gāi|LTranslit=gāi
 15	半島	半島	NOUN	NN	_	16	obl:patient	_	SpaceAfter=No|Translit=bàndǎo|LTranslit=bàndǎo
-16	一分為二	一分為二	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yīfēnwèi'èr|LTranslit=yīfēnwèi'èr
+16	一分為二	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yīfēnwèi'èr|LTranslit=wèi
 17	。	。	PUNCT	.	_	16	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = w01072
@@ -15805,7 +15805,7 @@
 7	告誡	告誡	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gàojiè|LTranslit=gàojiè
 8	其	其	PRON	PRP	Person=3	9	compound	_	SpaceAfter=No|Translit=qí|LTranslit=qí
 9	教徒	教徒	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=jiàotú|LTranslit=jiàotú
-10	不能	不能	AUX	MD	_	11	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=bùnéng
+10	不能	能	AUX	MD	Polarity=Neg	11	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=néng
 11	相信	相信	VERB	VV	_	7	ccomp	_	SpaceAfter=No|Translit=xiāngxìn|LTranslit=xiāngxìn
 12	《	《	PUNCT	(	_	15	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
 13	女巫	女巫	NOUN	NN	_	15	nmod	_	Proper=True|SpaceAfter=No|Translit=nǚ巫|LTranslit=nǚ巫
@@ -15956,7 +15956,7 @@
 5	到	到	VERB	VV	_	4	mark:prt	_	SpaceAfter=No|Translit=dào|LTranslit=dào
 6	把	把	ADP	BB	Voice=Cau	7	case	_	SpaceAfter=No|Translit=bǎ|LTranslit=bǎ
 7	希臘	希臘	PROPN	NNP	_	8	obl:patient	_	SpaceAfter=No|Translit=xī臘|LTranslit=xī臘
-8	一分為二	一分為二	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=yīfēnwèi'èr|LTranslit=yīfēnwèi'èr
+8	一分為二	為	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=yīfēnwèi'èr|LTranslit=wèi
 9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	溫泉關	溫泉關	PROPN	NNP	_	4	obj	_	SpaceAfter=No|Translit=wēnquánguān|LTranslit=wēnquánguān
 11	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -16175,7 +16175,7 @@
 8	的	的	PART	DEC	Case=Gen	7	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	蠅頭小利	蠅頭小利	NOUN	NN	_	5	obj	_	SpaceAfter=No|Translit=yingtóuxiǎolì|LTranslit=yingtóuxiǎolì
 10	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-11	未能	未能	AUX	MD	_	12	aux	_	SpaceAfter=No|Translit=wèinéng|LTranslit=wèinéng
+11	未能	能	AUX	MD	Polarity=Neg	12	aux	_	SpaceAfter=No|Translit=wèinéng|LTranslit=néng
 12	做好	做好	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zuòhǎo|LTranslit=zuòhǎo
 13	面對	面對	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No|Translit=miànduì|LTranslit=miànduì
 14	海外	海外	NOUN	NN	_	15	compound	_	SpaceAfter=No|Translit=hǎiwài|LTranslit=hǎiwài
@@ -16319,7 +16319,7 @@
 15	是	是	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 16	因為	因為	ADP	IN	_	15	xcomp	_	SpaceAfter=No|Translit=yīnwèi|LTranslit=yīnwèi
 17	人們	人	NOUN	NN	Number=Plur	18	nsubj	_	SpaceAfter=No|Translit=rénmen|LTranslit=rén
-18	認為	認為	VERB	VV	_	16	obj	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+18	認為	為	VERB	VV	_	16	obj	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 19	古典	古典	NOUN	NN	_	20	compound	_	SpaceAfter=No|Translit=gǔdiǎn|LTranslit=gǔdiǎn
 20	作品	作品	NOUN	NN	_	22	nsubj	_	SpaceAfter=No|Translit=zuòpǐn|LTranslit=zuòpǐn
 21	能夠	能夠	AUX	MD	_	22	aux	_	SpaceAfter=No|Translit=nénggòu|LTranslit=nénggòu
@@ -16888,7 +16888,7 @@
 6	和	和	CCONJ	CC	_	7	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 7	威勒	威勒	PROPN	NNP	_	5	conj	_	SpaceAfter=No|Translit=wēilēi|LTranslit=wēilēi
 8	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-9	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+9	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 10	英國	英國	PROPN	NNP	_	11	compound	_	SpaceAfter=No|Translit=yīngguó|LTranslit=yīngguó
 11	重騎兵	重騎兵	NOUN	NN	_	28	nsubj	_	Proper=True|SpaceAfter=No|Translit=zhòngqíbīng|LTranslit=zhòngqíbīng
 12	在	在	ADP	IN	_	13	mark	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -16999,7 +16999,7 @@
 11	之後	之後	ADP	IN	_	8	mark	_	SpaceAfter=No|Translit=zhīhòu|LTranslit=zhīhòu
 12	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 13	中國	中國	PROPN	NNP	_	16	nsubj	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
-14	不得	不得	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=bùde|LTranslit=bùde
+14	不得	得	AUX	MD	Polarity=Neg	16	aux	_	SpaceAfter=No|Translit=bùde|LTranslit=de
 15	不	不	ADV	RB	Polarity=Neg	16	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 16	面對	面對	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=miànduì|LTranslit=miànduì
 17	英國	英國	PROPN	NNP	_	18	nsubj	_	SpaceAfter=No|Translit=yīngguó|LTranslit=yīngguó
@@ -17231,7 +17231,7 @@
 # text_en = De Gaulle had instructed that there be no excessive displays of public affection towards Churchill and no official awards without his prior agreement.
 1	戴高樂	戴高樂	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=dàigāolè|LTranslit=dàigāolè
 2	命令	命令	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=mìnglìng|LTranslit=mìnglìng
-3	不得	不得	AUX	MD	_	7	aux	_	SpaceAfter=No|Translit=bùde|LTranslit=bùde
+3	不得	得	AUX	MD	Polarity=Neg	7	aux	_	SpaceAfter=No|Translit=bùde|LTranslit=de
 4	在	在	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 5	公共	公共	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=gōnggòng|LTranslit=gōnggòng
 6	場合	場合	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=chǎnghé|LTranslit=chǎnghé
@@ -17246,7 +17246,7 @@
 15	他	他	PRON	PRP	Person=3	17	nmod	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 16	的	的	PART	DEC	Case=Gen	15	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	命令	命令	NOUN	NN	_	21	obl	_	SpaceAfter=No|Translit=mìnglìng|LTranslit=mìnglìng
-18	不得	不得	AUX	MD	_	21	aux	_	SpaceAfter=No|Translit=bùde|LTranslit=bùde
+18	不得	得	AUX	MD	Polarity=Neg	21	aux	_	SpaceAfter=No|Translit=bùde|LTranslit=de
 19	向	向	ADP	IN	_	20	case	_	SpaceAfter=No|Translit=xiàng|LTranslit=xiàng
 20	丘吉爾	丘吉爾	PROPN	NNP	_	21	obl	_	SpaceAfter=No|Translit=qiūjí'ěr|LTranslit=qiūjí'ěr
 21	頒布	頒布	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=bānbù|LTranslit=bānbù
@@ -17334,7 +17334,7 @@
 34	的	的	PART	DEC	Case=Gen	33	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 35	姍姍來遲	姍姍來遲	NOUN	NN	_	38	nsubj	_	SpaceAfter=No|Translit=姍姍láichí|LTranslit=姍姍láichí
 36	還是	還是	ADV	RB	_	38	advmod	_	SpaceAfter=No|Translit=háishì|LTranslit=háishì
-37	未能	未能	AUX	MD	_	38	aux	_	SpaceAfter=No|Translit=wèinéng|LTranslit=wèinéng
+37	未能	能	AUX	MD	Polarity=Neg	38	aux	_	SpaceAfter=No|Translit=wèinéng|LTranslit=néng
 38	改變	改變	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=gǎibiàn|LTranslit=gǎibiàn
 39	戰場	戰場	NOUN	NN	_	40	compound	_	SpaceAfter=No|Translit=zhànchǎng|LTranslit=zhànchǎng
 40	局勢	局勢	NOUN	NN	_	38	obj	_	SpaceAfter=No|Translit=júshì|LTranslit=júshì
@@ -18129,7 +18129,7 @@
 27	擔任	擔任	VERB	VV	_	30	csubj	_	SpaceAfter=No|Translit=dānrèn|LTranslit=dānrèn
 28	記者	記者	NOUN	NN	_	27	obj	_	SpaceAfter=No|Translit=jìzhě|LTranslit=jìzhě
 29	，	，	PUNCT	,	_	27	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-30	為期	為期	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wèiqī|LTranslit=wèiqī
+30	為期	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wèiqī|LTranslit=wèi
 31	一	一	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 32	年	年	NOUN	NNB	_	30	obj	_	SpaceAfter=No|Translit=nián|LTranslit=nián
 33	半	半	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No|Translit=bàn|LTranslit=bàn
@@ -18407,7 +18407,7 @@
 9	之前	之前	ADP	IN	_	5	mark	_	SpaceAfter=No|Translit=zhīqián|LTranslit=zhīqián
 10	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	公眾	公眾	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=gōngzhòng|LTranslit=gōngzhòng
-12	未能	未能	AUX	MD	_	13	aux	_	SpaceAfter=No|Translit=wèinéng|LTranslit=wèinéng
+12	未能	能	AUX	MD	Polarity=Neg	13	aux	_	SpaceAfter=No|Translit=wèinéng|LTranslit=néng
 13	了解	了解	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=lejiě|LTranslit=lejiě
 14	她	她	PRON	PRP	Person=3	23	compound	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 15	在	在	ADP	IN	_	23	nmod	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -18502,7 +18502,7 @@
 9	之後	之後	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=zhīhòu|LTranslit=zhīhòu
 10	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	《	《	PUNCT	(	_	12	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
-12	以為	以為	VERB	VV	_	18	nsubj	_	Proper=True|SpaceAfter=No|Translit=yǐwèi|LTranslit=yǐwèi
+12	以為	為	VERB	VV	_	18	nsubj	_	Proper=True|SpaceAfter=No|Translit=yǐwèi|LTranslit=wèi
 13	你	你	PRON	PRP	Person=2	14	nsubj	_	SpaceAfter=No|Translit=nǐ|LTranslit=nǐ
 14	知道	知道	VERB	VV	_	12	ccomp	_	Proper=True|SpaceAfter=No|Translit=zhīdào|LTranslit=zhīdào
 15	》	》	PUNCT	)	_	12	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
@@ -18622,7 +18622,7 @@
 14	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 15	兄弟們	兄弟們	NOUN	NN	_	17	nsubj	_	SpaceAfter=No|Translit=xiōngdìmen|LTranslit=xiōngdìmen
 16	並	並	ADV	RB	_	17	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-17	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+17	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 18	被	被	ADP	BB	Voice=Pass	21	case	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 19	他	他	PRON	PRP	Person=3	21	nmod	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 20	的	的	PART	DEC	Case=Gen	19	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -19121,7 +19121,7 @@
 1	湯普遜	湯普遜	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=tāngpǔxùn|LTranslit=tāngpǔxùn
 2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 3	文章	文章	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=wénzhāng|LTranslit=wénzhāng
-4	認為	認為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+4	認為	為	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 5	瑪雅人	瑪雅人	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=mǎ雅rén|LTranslit=mǎ雅rén
 6	是	是	AUX	VC	_	12	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
 7	非常	非常	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=fēicháng|LTranslit=fēicháng
@@ -19163,7 +19163,7 @@
 16	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 17	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 18	理論	理論	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=lǐlùn|LTranslit=lǐlùn
-19	認為	認為	VERB	VV	_	17	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+19	認為	為	VERB	VV	_	17	ccomp	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 20	當時	當時	NOUN	NN	_	22	nmod	_	SpaceAfter=No|Translit=dāngshí|LTranslit=dāngshí
 21	的	的	PART	DEC	Case=Gen	20	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 22	瑪雅人	瑪雅人	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No|Translit=mǎ雅rén|LTranslit=mǎ雅rén
@@ -20221,7 +20221,7 @@
 1	布洛克	布洛克	PROPN	NNP	_	15	nsubj	_	SpaceAfter=No|Translit=bùluòkè|LTranslit=bùluòkè
 2	堅定	堅定	ADJ	JJ	_	4	advmod	_	SpaceAfter=No|Translit=jiāndìng|LTranslit=jiāndìng
 3	地	地	PART	DEV	_	4	mark:adv	_	SpaceAfter=No|Translit=de|LTranslit=de
-4	認為	認為	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=rènwèi
+4	認為	為	VERB	VV	_	15	advcl	_	SpaceAfter=No|Translit=rènwèi|LTranslit=wèi
 5	希望	希望	VERB	VV	_	11	csubj	_	SpaceAfter=No|Translit=xīwàng|LTranslit=xīwàng
 6	才是	是	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=cáishì|LTranslit=shì
 7	馬克思	馬克思	PROPN	NNP	_	8	compound	_	SpaceAfter=No|Translit=mǎkèsī|LTranslit=mǎkèsī
@@ -20489,7 +20489,7 @@
 # text_en = The Great Powers did not fulfill the requests for recognition of Albania.
 1	六	六	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=liù|LTranslit=liù
 2	大國	大國	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=dàguó|LTranslit=dàguó
-3	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+3	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 4	滿足	滿足	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=mǎnzú|LTranslit=mǎnzú
 5	承認	承認	VERB	VV	_	8	acl:relcl	_	SpaceAfter=No|Translit=chéngrèn|LTranslit=chéngrèn
 6	阿爾巴尼亞	阿爾巴尼亞	PROPN	NNP	_	5	obj	_	SpaceAfter=No|Translit='ā'ěrbaníyà|LTranslit='ā'ěrbaníyà
@@ -20784,7 +20784,7 @@
 # translit = fāyánrénméiyǒupáichúqítārényěkěnéngbèidiàochádekěnéngxìng.
 # text_en = The spokesman did not rule out the possibility that others would also be investigated.
 1	發言人	發言人	VERB	VV	_	2	nsubj	_	SpaceAfter=No|Translit=fāyánrén|LTranslit=fāyánrén
-2	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+2	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 3	排除	排除	VERB	VV	_	2	xcomp	_	SpaceAfter=No|Translit=páichú|LTranslit=páichú
 4	其他	其他	DET	DT	_	5	det	_	SpaceAfter=No|Translit=qítā|LTranslit=qítā
 5	人	人	NOUN	NN	_	9	nsubj:pass	_	SpaceAfter=No|Translit=rén|LTranslit=rén
@@ -20853,7 +20853,7 @@
 # text = 沒有人知道怎麼樣才能讓兩位劇作家合作。
 # translit = méiyǒurénzhīdàozěnmeyàngcáinéngràngliǎngwèijùzuòjiāhézuò.
 # text_en = One doesn't know in which way both dramatists would have worked together.
-1	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+1	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 2	人	人	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
 3	知道	知道	VERB	VV	_	1	ccomp	_	SpaceAfter=No|Translit=zhīdào|LTranslit=zhīdào
 4	怎麼	怎麼	PRON	WP	_	5	compound	_	SpaceAfter=No|Translit=zěnme|LTranslit=zěnme
@@ -20885,7 +20885,7 @@
 10	，	，	PUNCT	,	_	9	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	甚至	甚至	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=shénzhì|LTranslit=shénzhì
 12	完全	完全	ADV	RB	_	23	advmod	_	SpaceAfter=No|Translit=wánquán|LTranslit=wánquán
-13	不會	不會	AUX	MD	_	23	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=bùhuì
+13	不會	會	AUX	MD	Polarity=Neg	23	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
 14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 15	在	在	ADP	IN	_	20	mark	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 16	兩	兩	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=liǎng|LTranslit=liǎng
@@ -21349,7 +21349,7 @@
 11	季末	季末	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=jìmò|LTranslit=jìmò
 12	標誌	標誌	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=biāo誌|LTranslit=biāo誌
 13	著	著	AUX	AS	Aspect=Prog	12	aux	_	SpaceAfter=No|Translit=zhe|LTranslit=zhe
-14	不可思議	不可思議	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No|Translit=bùkěsīyì|LTranslit=bùkěsīyì
+14	不可思議	可思議	VERB	VV	Polarity=Neg	17	acl:relcl	_	SpaceAfter=No|Translit=bùkěsīyì|LTranslit=kěsīyì
 15	的	的	PART	DEC	_	14	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	一	一	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 17	年	年	NOUN	NNB	_	19	nmod	_	SpaceAfter=No|Translit=nián|LTranslit=nián
@@ -21744,7 +21744,7 @@
 5	警告	警告	VERB	VV	_	7	advcl	_	SpaceAfter=No|Translit=jǐnggào|LTranslit=jǐnggào
 6	歐洲	歐洲	PROPN	NNP	_	5	obj	_	SpaceAfter=No|Translit='ōuzhōu|LTranslit='ōuzhōu
 7	說	說	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
-8	不要	不要	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=bùyào|LTranslit=bùyào
+8	不要	要	AUX	MD	Polarity=Neg	16	aux	_	SpaceAfter=No|Translit=bùyào|LTranslit=yào
 9	對	對	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 10	埃爾多安	埃爾多安	PROPN	NNP	_	15	nmod	_	SpaceAfter=No|Translit='āi'ěrduō'ān|LTranslit='āi'ěrduō'ān
 11	（	（	PUNCT	(	_	12	punct	_	SpaceAfter=No|Translit=(|LTranslit=(
@@ -21884,7 +21884,7 @@
 6	煩惱	煩惱	VERB	VV	_	4	ccomp	_	SpaceAfter=No|Translit=fánnǎo|LTranslit=fánnǎo
 7	的	的	PART	DEC	_	4	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	跡像	跡像	NOUN	NN	_	11	nsubj	_	SpaceAfter=No|Translit=jīxiàng|LTranslit=jīxiàng
-9	不會	不會	AUX	MD	_	11	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=bùhuì
+9	不會	會	AUX	MD	Polarity=Neg	11	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
 10	完全	完全	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=wánquán|LTranslit=wánquán
 11	消失	消失	VERB	VV	_	13	csubj	_	SpaceAfter=No|Translit=xiāoshī|LTranslit=xiāoshī
 12	：	：	PUNCT	:	_	11	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
@@ -21919,7 +21919,7 @@
 41	且	且	ADV	RB	_	44	advmod	_	SpaceAfter=No|Translit=qiě|LTranslit=qiě
 42	跟	跟	ADP	IN	_	43	case	_	SpaceAfter=No|Translit=gēn|LTranslit=gēn
 43	YouTube	YouTube	X	FW	_	44	obl	_	Proper=True|SpaceAfter=No|Translit=YouTube|LTranslit=YouTube
-44	沒有	沒有	VERB	VV	_	23	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+44	沒有	有	VERB	VV	Polarity=Neg	23	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 45	協議	協議	NOUN	NN	_	44	obj	_	SpaceAfter=No|Translit=xiéyì|LTranslit=xiéyì
 46	時	時	ADP	IN	_	44	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
 47	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -21997,7 +21997,7 @@
 32	里	里	ADP	IN	_	31	case:loc	_	SpaceAfter=No|Translit=lǐ|LTranslit=lǐ
 33	，	，	PUNCT	,	_	23	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 34	這	這	DET	DT	_	35	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
-35	不足為奇	不足為奇	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=bùzúwèiqí|LTranslit=bùzúwèiqí
+35	不足為奇	足為奇	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=bùzúwèiqí|LTranslit=zúwèiqí
 36	。	。	PUNCT	.	_	35	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n03001
@@ -22022,7 +22022,7 @@
 15	封	封	NOUN	NNB	_	16	clf	_	SpaceAfter=No|Translit=fēng|LTranslit=fēng
 16	信	信	NOUN	NN	_	18	nsubj	_	SpaceAfter=No|Translit=xìn|LTranslit=xìn
 17	幾乎	幾乎	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=jǐhu|LTranslit=jǐhu
-18	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+18	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 19	被	被	AUX	BB	Voice=Pass	20	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 20	評論	評論	VERB	VV	_	18	xcomp	_	SpaceAfter=No|Translit=pínglùn|LTranslit=pínglùn
 21	過	過	AUX	AS	Aspect=Perf	20	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
@@ -22397,7 +22397,7 @@
 5	對	對	ADP	IN	_	8	mark	_	SpaceAfter=No|Translit=duì|LTranslit=duì
 6	手冊	手冊	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=shǒucè|LTranslit=shǒucè
 7	中	中	ADP	IN	_	6	case:loc	_	SpaceAfter=No|Translit=zhōng|LTranslit=zhōng
-8	沒有	沒有	VERB	VV	_	13	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+8	沒有	有	VERB	VV	Polarity=Neg	13	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 9	涵蓋	涵蓋	VERB	VV	_	8	xcomp	_	SpaceAfter=No|Translit=涵gài|LTranslit=涵gài
 10	他們	他	PRON	PRP	Number=Plur|Person=3	12	nmod	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 11	的	的	PART	DEC	Case=Gen	10	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -22411,7 +22411,7 @@
 19	：	：	PUNCT	:	_	22	punct	_	SpaceAfter=No|Translit=:|LTranslit=:
 20	“	“	PUNCT	``	_	22	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 21	根本	根本	NOUN	NN	_	22	obl	_	SpaceAfter=No|Translit=gēnběn|LTranslit=gēnběn
-22	沒有	沒有	VERB	VV	_	18	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+22	沒有	有	VERB	VV	Polarity=Neg	18	ccomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 23	諮詢	諮詢	VERB	VV	_	22	xcomp	_	SpaceAfter=No|Translit=諮xún|LTranslit=諮xún
 24	我們	我	PRON	PRP	Number=Plur|Person=1	26	nmod	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
 25	的	的	PART	DEC	Case=Gen	24	case	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -22916,7 +22916,7 @@
 12	以前	以前	ADP	IN	_	11	case:loc	_	SpaceAfter=No|Translit=yǐqián|LTranslit=yǐqián
 13	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 14	增值稅	增值稅	VERB	VV	_	16	nsubj	_	SpaceAfter=No|Translit=zēngzhíshuì|LTranslit=zēngzhíshuì
-15	不會	不會	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=bùhuì
+15	不會	會	AUX	MD	Polarity=Neg	16	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
 16	上升	上升	VERB	VV	_	6	ccomp	_	SpaceAfter=No|Translit=shàngshēng|LTranslit=shàngshēng
 17	。	。	PUNCT	.	_	6	punct	_	Translit=.|LTranslit=.
 
@@ -23460,7 +23460,7 @@
 13	廢除	廢除	NOUN	NN	_	12	xcomp	_	SpaceAfter=No|Translit=fèichú|LTranslit=fèichú
 14	Fátima	Fátima	X	FW	_	16	nsubj	_	Proper=True|Translit=Fátima|LTranslit=Fátima
 15	Báñez	Báñez	X	FW	Foreign=Yes	14	flat	_	Proper=True|SpaceAfter=No|Translit=Báñez|LTranslit=Báñez
-16	引以為豪	引以為豪	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No|Translit=yǐnyǐwèiháo|LTranslit=yǐnyǐwèiháo
+16	引以為豪	為	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No|Translit=yǐnyǐwèiháo|LTranslit=wèi
 17	的	的	PART	DEC	_	16	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 18	立法	立法	NOUN	NN	_	19	compound	_	SpaceAfter=No|Translit=lìfǎ|LTranslit=lìfǎ
 19	決定	決定	NOUN	NN	_	13	ccomp	_	SpaceAfter=No|Translit=juédìng|LTranslit=juédìng
@@ -24081,7 +24081,7 @@
 6	世界	世界	NOUN	NN	_	7	compound	_	Proper=True|SpaceAfter=No|Translit=shìjiè|LTranslit=shìjiè
 7	大戰	大戰	NOUN	NN	_	8	compound	_	Proper=True|SpaceAfter=No|Translit=dàzhàn|LTranslit=dàzhàn
 8	戰末	戰末	NOUN	NN	_	9	obl	_	SpaceAfter=No|Translit=zhànmò|LTranslit=zhànmò
-9	沒有	沒有	VERB	VV	_	16	acl:relcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+9	沒有	有	VERB	VV	Polarity=Neg	16	acl:relcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 10	被	被	AUX	BB	Voice=Pass	11	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 11	摧毀	摧毀	VERB	VV	_	9	xcomp	_	SpaceAfter=No|Translit=cuīhuǐ|LTranslit=cuīhuǐ
 12	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -24644,7 +24644,7 @@
 2	在	在	ADP	IN	_	3	mark	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 3	逃跑	逃跑	VERB	VV	_	6	xcomp	_	SpaceAfter=No|Translit=táopǎo|LTranslit=táopǎo
 4	時	時	ADP	IN	_	3	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
-5	不夠	不夠	VERB	VV	_	14	advcl	_	SpaceAfter=No|Translit=bùgòu|LTranslit=bùgòu
+5	不夠	夠	VERB	VV	Polarity=Neg	14	advcl	_	SpaceAfter=No|Translit=bùgòu|LTranslit=gòu
 6	謹慎	謹慎	ADJ	JJ	_	5	xcomp	_	SpaceAfter=No|Translit=jǐnshèn|LTranslit=jǐnshèn
 7	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	在	在	ADP	IN	_	9	mark	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -25375,7 +25375,7 @@
 9	會務	會務	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=huìwu|LTranslit=huìwu
 10	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 11	皮洛士	皮洛士	PROPN	NNP	_	14	nsubj	_	SpaceAfter=No|Translit=píluòshì|LTranslit=píluòshì
-12	不得	不得	AUX	MD	_	14	aux	_	SpaceAfter=No|Translit=bùde|LTranslit=bùde
+12	不得	得	AUX	MD	Polarity=Neg	14	aux	_	SpaceAfter=No|Translit=bùde|LTranslit=de
 13	不	不	ADV	RB	Polarity=Neg	14	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 14	離開	離開	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=líkāi|LTranslit=líkāi
 15	了	了	AUX	AS	Aspect=Perf	14	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -25545,7 +25545,7 @@
 5	大部分	大部分	NOUN	NN	_	6	compound	_	SpaceAfter=No|Translit=dàbùfēn|LTranslit=dàbùfēn
 6	基督徒	基督徒	NOUN	NN	_	8	nsubj	_	Proper=True|SpaceAfter=No|Translit=jīdūtú|LTranslit=jīdūtú
 7	並	並	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-8	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+8	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 9	母語版	母語版	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=mǔyǔbǎn|LTranslit=mǔyǔbǎn
 10	的	的	PART	DEC	Case=Gen	9	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	聖經	聖經	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=shèngjīng|LTranslit=shèngjīng
@@ -25569,7 +25569,7 @@
 11	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 12	他們	他	PRON	PRP	Number=Plur|Person=3	14	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 13	並	並	ADV	RB	_	14	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-14	沒有	沒有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=méiyǒu
+14	沒有	有	VERB	VV	Polarity=Neg	0	root	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 15	擴張	擴張	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=kuòzhāng|LTranslit=kuòzhāng
 16	。	。	PUNCT	.	_	14	punct	_	Translit=.|LTranslit=.
 
@@ -26270,7 +26270,7 @@
 # text_en = Although not a resolver of the conflict, the French victory at the Battle of Marengo forced the Austrians to give Italy up for the second time.
 1	儘管	儘管	SCONJ	IN	_	4	mark	_	SpaceAfter=No|Translit=儘guǎn|LTranslit=儘guǎn
 2	並	並	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
-3	不能	不能	AUX	MD	_	4	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=bùnéng
+3	不能	能	AUX	MD	Polarity=Neg	4	aux	_	SpaceAfter=No|Translit=bùnéng|LTranslit=néng
 4	解決	解決	VERB	VV	_	14	xcomp	_	SpaceAfter=No|Translit=jiějué|LTranslit=jiějué
 5	衝突	衝突	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=衝tū|LTranslit=衝tū
 6	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -26994,7 +26994,7 @@
 6	了	了	PART	UH	_	5	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
 7	，	，	PUNCT	,	_	5	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	所以	所以	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=suǒyǐ|LTranslit=suǒyǐ
-9	不得	不得	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=bùde|LTranslit=bùde
+9	不得	得	AUX	MD	Polarity=Neg	16	aux	_	SpaceAfter=No|Translit=bùde|LTranslit=de
 10	不	不	ADV	RB	Polarity=Neg	16	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 11	在	在	VERB	VV	_	16	advcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 12	哈德遜河	哈德遜河	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit=hādéxùnhé|LTranslit=hādéxùnhé
