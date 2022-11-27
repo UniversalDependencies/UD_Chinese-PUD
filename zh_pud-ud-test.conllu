@@ -389,7 +389,7 @@
 # translit = ”wǒmenmiànlínhěnduōjìngzhēng,'érwǒmenrènwèizhèngquánzhuǎnyínéngduìcǐjúmiànyǒusuǒbāngzhù,”喬zhìchéngshāngyègǎishànhuìzhǔxí喬·sīdùnléishuōdào.
 # text_en = “We face a lot of competition, and we think transit can help,” said Joe Sternlieb, president of the Georgetown BID.
 1	”	”	PUNCT	``	_	9	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
-2	我們	我	PRON	PRP	Number=Plur|Person=1	2	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
+2	我們	我	PRON	PRP	Number=Plur|Person=1	3	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
 3	面臨	面臨	VERB	VV	_	9	advcl	_	SpaceAfter=No|Translit=miànlín|LTranslit=miànlín
 4	很多	很多	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=hěnduō|LTranslit=hěnduō
 5	競爭	競爭	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=jìngzhēng|LTranslit=jìngzhēng
