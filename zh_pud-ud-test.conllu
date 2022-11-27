@@ -1881,16 +1881,16 @@
 16	行動	行動	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=xíngdòng|LTranslit=xíngdòng
 17	時	時	ADP	IN	_	3	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
 18	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-19	他	他	PRON	PRP	Person=3	22	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
-20	將	將	AUX	BB	Voice=Cau	22	aux	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
-21	之	之	PRON	PRD	_	22	obj	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
-22	描述	描述	VERB	VV	_	30	advcl	_	SpaceAfter=No|Translit=miáoshù|LTranslit=miáoshù
-23	為	為	VERB	VC	_	22	mark:prt	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
+19	他	他	PRON	PRP	Person=3	20	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
+20	將	將	VERB	BB	Voice=Cau	30	advcl	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
+21	之	之	PRON	PRD	_	20	obj	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
+22	描述	描述	VERB	VV	_	20	xcomp	_	SpaceAfter=No|Translit=miáoshù|LTranslit=miáoshù
+23	為	為	VERB	VC	_	20	mark:prt	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 24	“	“	PUNCT	``	_	25	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
-25	非常	非常	ADV	RB	_	22	advmod	_	SpaceAfter=No|Translit=fēicháng|LTranslit=fēicháng
+25	非常	非常	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit=fēicháng|LTranslit=fēicháng
 26	合理	合理	ADJ	JJ	_	22	xcomp	_	SpaceAfter=No|Translit=hélǐ|LTranslit=hélǐ
 27	”	”	PUNCT	''	_	26	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
-28	，	，	PUNCT	,	_	22	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+28	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 29	因而	因而	ADV	RB	_	30	advmod	_	SpaceAfter=No|Translit=yīn'ér|LTranslit=yīn'ér
 30	登上	登上	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dēngshàng|LTranslit=dēngshàng
 31	了	了	AUX	AS	Aspect=Perf	30	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -8882,11 +8882,11 @@
 4	沒	沒	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=méi|LTranslit=méi
 5	決定	決定	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=juédìng|LTranslit=juédìng
 6	是否	是	VERB	VC	_	5	xcomp	_	SpaceAfter=No|Translit=shìfǒu|LTranslit=shì
-7	要	要	AUX	MD	_	11	aux	_	SpaceAfter=No|Translit=yào|LTranslit=yào
-8	將	將	AUX	BB	Voice=Cau	11	aux	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
+7	要	要	AUX	MD	_	8	aux	_	SpaceAfter=No|Translit=yào|LTranslit=yào
+8	將	將	VERB	BB	Voice=Cau	6	xcomp	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
 9	電動	電動	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=diàndòng|LTranslit=diàndòng
-10	摩托車	摩托車	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=mótuōchē|LTranslit=mótuōchē
-11	商業化	商業化	NOUN	NN	_	6	xcomp	_	SpaceAfter=No|Translit=shāngyèhuà|LTranslit=shāngyèhuà
+10	摩托車	摩托車	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=mótuōchē|LTranslit=mótuōchē
+11	商業化	商業化	NOUN	NN	_	8	xcomp	_	SpaceAfter=No|Translit=shāngyèhuà|LTranslit=shāngyèhuà
 12	。	。	PUNCT	.	_	4	punct	_	Translit=.|LTranslit=.
 
 # newdoc id = n01133
