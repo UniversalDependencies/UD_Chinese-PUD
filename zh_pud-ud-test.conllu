@@ -7982,7 +7982,7 @@
 # text_en = "Cinema had changed so drastically that Hollywood had alienated the family audience."
 1	電影院	電影院	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=diànyǐngyuàn|LTranslit=diànyǐngyuàn
 2	發生	發生	VERB	VV	_	3	xcomp	_	SpaceAfter=No|Translit=fāshēng|LTranslit=fāshēng
-3	瞭	瞭	VERB	AS	Aspect=Perf	0	root	_	SpaceAfter=No|Translit=liǎo|LTranslit=liǎo
+3	瞭	瞭	VERB	AS	_	0	root	_	SpaceAfter=No|Translit=liǎo|LTranslit=liǎo
 4	如此	如此	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=rúcǐ|LTranslit=rúcǐ
 5	巨變	巨變	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=jùbiàn|LTranslit=jùbiàn
 6	以至	以至	VERB	VV	Voice=Cau	3	ccomp	_	SpaceAfter=No|Translit=yǐzhì|LTranslit=yǐzhì
