@@ -36,6 +36,14 @@ employ ten-fold cross-validation.
 
 # Changelog
 
+* 2023-05-15 v2.12
+  * Fixed: PUNCT nodes must be attached via punct relations.
+  * Fixed: Auxiliary must be tagged AUX.
+  * Fixed: Nominal cannot be advmod.
+  * Added lemmas.
+  * Scaled down the set of copulas and other auxiliaries.
+  * Fixed: function words must be leaves.
+  * Fixed: at most one subject per clause.
 * 2021-05-15 v2.8
   * Changed mark:relcl to mark:rel (as in the other Chinese treebanks).
 * 2017-11-15 v2.1
@@ -111,10 +119,10 @@ Data available since: UD v2.1
 License: CC BY-SA 3.0
 Includes text: yes
 Genre: news wiki
-Lemmas: not available
+Lemmas: automatic with corrections
 UPOS: converted from manual
 XPOS: not available
-Features: converted from manual
+Features: converted with corrections
 Relations: converted from manual
 Contributors: Uszkoreit, Hans; Macketanz, Vivien; Burchardt, Aljoscha; Harris, Kim; Marheinecke, Katrin; Petrov, Slav; Kayadelen, Tolga; Attia, Mohammed; Elkahky, Ali; Yu, Zhuoran; Pitler, Emily; Lertpradit, Saran; Li, Josie; Li, Cheuk Ying; Popel, Martin; Zeman, Daniel; Leung, Herman
 Contributing: to be adopted
