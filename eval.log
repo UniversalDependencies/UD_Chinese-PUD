@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Chinese-PUD:
-commit 8d8f867ac5461f6ce3d5b4b9de7f601a0d116747
+commit 1a5fc7148b450a0e1f2300a0480379dd08d4516f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 11:36:35 2023 +0100
+Date:   Sun May 5 11:59:38 2024 +0200
 Size: counted 21415 of 21415 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.12818322213467.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,6 +25,18 @@ Udapi: found 4978 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 21415 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-PUD/zh_pud-ud-test.conllu
+[Line 83 Sent n01002017 Node 8]: [L3 Warning leaf-clf] 'clf' not expected to have children (8:次:clf --> 7:一:nummod)
+[Line 262 Sent n01003012 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:次:clf --> 1:這:det)
+[Line 268 Sent n01003012 Node 8]: [L3 Warning leaf-clf] 'clf' not expected to have children (8:個:clf --> 7:幾:nummod)
+[Line 310 Sent n01004009 Node 10]: [L3 Warning leaf-clf] 'clf' not expected to have children (10:個:clf --> 9:一:nummod)
+[Line 447 Sent n01006011 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:位:clf --> 1:一:nummod)
+[Line 486 Sent n01008017 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:個:clf --> 1:這:det)
+[Line 517 Sent n01008017 Node 33]: [L3 Warning leaf-clf] 'clf' not expected to have children (33:個:clf --> 32:這:det)
+[Line 535 Sent n01009027 Node 7]: [L3 Warning leaf-clf] 'clf' not expected to have children (7:隻:clf --> 6:一:nummod)
+[Line 593 Sent n01010042 Node 9]: [L3 Warning leaf-clf] 'clf' not expected to have children (9:段:clf --> 8:一:nummod)
+[Line 602 Sent n01010042 Node 18]: [L3 Warning leaf-clf] 'clf' not expected to have children (18:幢:clf --> 17:那:det)
+...suppressing further errors regarding Warning
+Warnings: 378
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.27) = 0.0207692307692308
