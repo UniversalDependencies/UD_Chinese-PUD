@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Chinese-PUD:
-commit 1a5fc7148b450a0e1f2300a0480379dd08d4516f
+commit d7e7adc2c5738ba445264b7319a330da887c645d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 11:59:38 2024 +0200
+Date:   Mon Nov 11 15:07:21 2024 +0100
 Size: counted 21415 of 21415 words (nodes).
 Size: min(0, log((N/1000)**2)) = 6.12818322213467.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,33 +20,36 @@ Features: source of annotation (from README) factor is 0.9.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL       4978
-Udapi: found 4978 bugs.
+               TOTAL       4974
+Udapi: found 4974 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 21415 words.
-Genres: found 2 out of 17 known.
+Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-PUD/zh_pud-ud-test.conllu
-[Line 83 Sent n01002017 Node 8]: [L3 Warning leaf-clf] 'clf' not expected to have children (8:次:clf --> 7:一:nummod)
-[Line 262 Sent n01003012 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:次:clf --> 1:這:det)
-[Line 268 Sent n01003012 Node 8]: [L3 Warning leaf-clf] 'clf' not expected to have children (8:個:clf --> 7:幾:nummod)
-[Line 310 Sent n01004009 Node 10]: [L3 Warning leaf-clf] 'clf' not expected to have children (10:個:clf --> 9:一:nummod)
-[Line 447 Sent n01006011 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:位:clf --> 1:一:nummod)
-[Line 486 Sent n01008017 Node 2]: [L3 Warning leaf-clf] 'clf' not expected to have children (2:個:clf --> 1:這:det)
-[Line 517 Sent n01008017 Node 33]: [L3 Warning leaf-clf] 'clf' not expected to have children (33:個:clf --> 32:這:det)
-[Line 535 Sent n01009027 Node 7]: [L3 Warning leaf-clf] 'clf' not expected to have children (7:隻:clf --> 6:一:nummod)
-[Line 593 Sent n01010042 Node 9]: [L3 Warning leaf-clf] 'clf' not expected to have children (9:段:clf --> 8:一:nummod)
-[Line 602 Sent n01010042 Node 18]: [L3 Warning leaf-clf] 'clf' not expected to have children (18:幢:clf --> 17:那:det)
-...suppressing further errors regarding Warning
-Warnings: 378
-*** PASSED ***
-Validity: 1
+[Line 83 Sent n01002017 Node 8]: [L3 Syntax leaf-clf] 'clf' not expected to have children (8:次:clf --> 7:一:nummod)
+[Line 262 Sent n01003012 Node 2]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:次:clf --> 1:這:det)
+[Line 268 Sent n01003012 Node 8]: [L3 Syntax leaf-clf] 'clf' not expected to have children (8:個:clf --> 7:幾:nummod)
+[Line 310 Sent n01004009 Node 10]: [L3 Syntax leaf-clf] 'clf' not expected to have children (10:個:clf --> 9:一:nummod)
+[Line 447 Sent n01006011 Node 2]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:位:clf --> 1:一:nummod)
+[Line 486 Sent n01008017 Node 2]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:個:clf --> 1:這:det)
+[Line 517 Sent n01008017 Node 33]: [L3 Syntax leaf-clf] 'clf' not expected to have children (33:個:clf --> 32:這:det)
+[Line 535 Sent n01009027 Node 7]: [L3 Syntax leaf-clf] 'clf' not expected to have children (7:隻:clf --> 6:一:nummod)
+[Line 593 Sent n01010042 Node 9]: [L3 Syntax leaf-clf] 'clf' not expected to have children (9:段:clf --> 8:一:nummod)
+[Line 602 Sent n01010042 Node 18]: [L3 Syntax leaf-clf] 'clf' not expected to have children (18:幢:clf --> 17:那:det)
+...suppressing further errors regarding Syntax
+[Line 8995 Sent n01134020 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression '只有 在' does not have the 'ExtPos' feature
+Syntax errors: 378
+Warnings: 1
+*** FAILED *** with 378 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.27) = 0.0207692307692308
-(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
+(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
 (weight=0.0769230769230769) * (score{lemmas}=0.5) = 0.0384615384615385
 (weight=0.256410256410256) * (score{size}=0.443572692910863) = 0.113736587925862
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.691891891891892) = 0.0532224532224532
-(TOTAL score=0.310051047181498) * (availability=1) * (validity=1) = 0.310051047181498
-STARS = 1.5
-UD_Chinese-PUD	0.310051047181498	1.5
+(TOTAL score=0.30954828197285) * (availability=1) * (validity=0.01) = 0.0030954828197285
+STARS = 0
+UD_Chinese-PUD	0.0030954828197285	0
