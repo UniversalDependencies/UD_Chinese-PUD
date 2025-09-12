@@ -118,7 +118,7 @@ Ali Elkahky, Abhijit Barde, Tolga Kayadelen, ...
 Data available since: UD v2.1
 License: CC BY-SA 3.0
 Includes text: yes
-Parallel: no
+Parallel: pud
 Genre: news wiki
 Lemmas: automatic with corrections
 UPOS: converted from manual
