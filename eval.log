@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Chinese-PUD:
-commit be513df4bb08fcae489c7dda55b48250faef135e
-Merge: 05b9c9f 7b54411
+commit 336a879612fda3e75ad680aafc51fa1db2ca60bc
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 18:56:46 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'zh_pud'
 Language code (from CoNLL-U file name) = 'zh'
@@ -25,31 +25,32 @@ Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang zh --max-err=10 UD_Chinese-PUD/zh_pud-ud-test.conllu
-[Line 65 Sent n01001013]: [L3 Warning pron-det-without-prontype] The word '這 zhè' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 82 Sent n01002017]: [L3 Warning pron-det-without-prontype] The word '他 tā' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 86 Sent n01002017]: [L3 Syntax leaf-clf] 'clf' not expected to have children (8:次:clf --> 7:一:nummod)
-[Line 102 Sent n01002017]: [L3 Warning pron-det-without-prontype] The word '他 tā' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 115 Sent n01002017]: [L3 Warning pron-det-without-prontype] The word '他 tā' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 134 Sent n01002032]: [L3 Warning pron-det-without-prontype] The word '我 wǒ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 137 Sent n01002032]: [L3 Warning pron-det-without-prontype] The word '你們 nǐmen' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 145 Sent n01002032]: [L3 Warning pron-det-without-prontype] The word '你們 nǐmen' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 192 Sent n01002058]: [L3 Warning pron-det-without-prontype] The word '她 tā' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 233 Sent n01003010]: [L3 Warning pron-det-without-prontype] The word '同 tóng' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 245 Sent n01003010]: [L3 Warning pron-det-without-prontype] The word '他們 tāmen' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 271 Sent n01003012]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:次:clf --> 1:這:det)
-[Line 277 Sent n01003012]: [L3 Syntax leaf-clf] 'clf' not expected to have children (8:個:clf --> 7:幾:nummod)
-[Line 321 Sent n01004009]: [L3 Syntax leaf-clf] 'clf' not expected to have children (10:個:clf --> 9:一:nummod)
-[Line 463 Sent n01006011]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:位:clf --> 1:一:nummod)
-[Line 504 Sent n01008017]: [L3 Syntax leaf-clf] 'clf' not expected to have children (2:個:clf --> 1:這:det)
-[Line 535 Sent n01008017]: [L3 Syntax leaf-clf] 'clf' not expected to have children (33:個:clf --> 32:這:det)
-[Line 554 Sent n01009027]: [L3 Syntax leaf-clf] 'clf' not expected to have children (7:隻:clf --> 6:一:nummod)
-[Line 614 Sent n01010042]: [L3 Syntax leaf-clf] 'clf' not expected to have children (9:段:clf --> 8:一:nummod)
-[Line 623 Sent n01010042]: [L3 Syntax leaf-clf] 'clf' not expected to have children (18:幢:clf --> 17:那:det)
-...suppressing further errors regarding Syntax
-Syntax errors: 379
-Warnings: 1068
-*** FAILED *** with 379 errors
+[Line 65 Sent n01001013]: [L3 WARNING pron-det-without-prontype] The word '這 zhè' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 82 Sent n01002017]: [L3 WARNING pron-det-without-prontype] The word '他 tā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 86 Sent n01002017]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (8:次:clf --> 7:一:nummod)
+[Line 102 Sent n01002017]: [L3 WARNING pron-det-without-prontype] The word '他 tā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 115 Sent n01002017]: [L3 WARNING pron-det-without-prontype] The word '他 tā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 134 Sent n01002032]: [L3 WARNING pron-det-without-prontype] The word '我 wǒ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 137 Sent n01002032]: [L3 WARNING pron-det-without-prontype] The word '你們 nǐmen' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 145 Sent n01002032]: [L3 WARNING pron-det-without-prontype] The word '你們 nǐmen' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 192 Sent n01002058]: [L3 WARNING pron-det-without-prontype] The word '她 tā' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 233 Sent n01003010]: [L3 WARNING pron-det-without-prontype] The word '同 tóng' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 245 Sent n01003010]: [L3 WARNING pron-det-without-prontype] The word '他們 tāmen' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 271 Sent n01003012]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (2:次:clf --> 1:這:det)
+[Line 277 Sent n01003012]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (8:個:clf --> 7:幾:nummod)
+[Line 321 Sent n01004009]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (10:個:clf --> 9:一:nummod)
+[Line 463 Sent n01006011]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (2:位:clf --> 1:一:nummod)
+[Line 504 Sent n01008017]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (2:個:clf --> 1:這:det)
+[Line 535 Sent n01008017]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (33:個:clf --> 32:這:det)
+[Line 554 Sent n01009027]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (7:隻:clf --> 6:一:nummod)
+[Line 614 Sent n01010042]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (9:段:clf --> 8:一:nummod)
+[Line 623 Sent n01010042]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (18:幢:clf --> 17:那:det)
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 9327 Sent n01134020]: [L3 WARNING fixed-without-extpos] Fixed expression '只有 在' does not have the 'ExtPos' feature
+Warnings: 1063
+SYNTAX errors: 384
+*** FAILED *** with 384 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.27) = 0.03
