@@ -2676,7 +2676,7 @@
 26	嗆肺	嗆肺	VERB	VV	_	28	acl:relcl	_	SpaceAfter=No|Translit=嗆fèi|LTranslit=嗆fèi
 27	的	的	PART	DEC	_	26	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 28	霧霾	霧霾	NOUN	NN	_	34	nsubj	_	SpaceAfter=No|Translit=wù霾|LTranslit=wù霾
-29	日	日	NOUN	NNB	_	32	obl	_	SpaceAfter=No|Translit=rì|LTranslit=rì
+29	日	日	NOUN	NNB	_	32	nmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 30	復	復	ADV	RB	_	32	advmod	_	SpaceAfter=No|Translit=fù|LTranslit=fù
 31	一	一	NUM	CD	NumType=Card	32	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
 32	日	日	NOUN	NNB	_	34	obl:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
@@ -10189,7 +10189,7 @@
 # text = 單為遊行服務的志願者就有1200名，岡薩雷斯·阿納亞（González Anaya）說道。
 # translit = dānwèiyóuxíngfúwudezhì願zhějiùyǒu1200míng,gāngsàléisī·'ānàyà(González Anaya)shuōdào.
 # text_en = "There are 1200 volunteers working for the parade alone," González Anaya says.
-1	單	單	NUM	CD	NumType=Card	6	obl	_	SpaceAfter=No|Translit=dān|LTranslit=dān
+1	單	單	NUM	CD	NumType=Card	6	nmod	_	SpaceAfter=No|Translit=dān|LTranslit=dān
 2	為	為	ADP	IN	_	3	mark	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 3	遊行	遊行	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=yóuxíng|LTranslit=yóuxíng
 4	服務	服務	VERB	VV	_	6	acl:relcl	_	SpaceAfter=No|Translit=fúwu|LTranslit=fúwu
@@ -11547,7 +11547,7 @@
 1	中國	中國	PROPN	NNP	_	7	nsubj	_	SpaceAfter=No|Translit=zhōngguó|LTranslit=zhōngguó
 2	為	為	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 3	2008	2008	NUM	CD	NumType=Card	4	nummod	_	Proper=True|SpaceAfter=No|Translit=2008|LTranslit=2008
-4	年	年	NOUN	NNB	_	6	obl:tmod	_	Proper=True|SpaceAfter=No|Translit=nián|LTranslit=nián
+4	年	年	NOUN	NNB	_	6	nmod:tmod	_	Proper=True|SpaceAfter=No|Translit=nián|LTranslit=nián
 5	夏季	夏季	NOUN	NN	_	6	compound	_	Proper=True|SpaceAfter=No|Translit=xiàjì|LTranslit=xiàjì
 6	奧運會	奧運會	PROPN	NNP	_	7	obl	_	SpaceAfter=No|Translit='àoyùnhuì|LTranslit='àoyùnhuì
 7	進行	進行	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=jìnxíng|LTranslit=jìnxíng
@@ -19948,7 +19948,7 @@
 15	科幻	科幻	NOUN	NN	_	16	compound	_	SpaceAfter=No|Translit=kēhuàn|LTranslit=kēhuàn
 16	故事	故事	NOUN	NN	_	21	obl	_	SpaceAfter=No|Translit=gùshì|LTranslit=gùshì
 17	《	《	PUNCT	(	_	18	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
-18	星際	星際	NOUN	NN	_	16	obl	_	Proper=True|SpaceAfter=No|Translit=xīngjì|LTranslit=xīngjì
+18	星際	星際	NOUN	NN	_	16	nmod	_	Proper=True|SpaceAfter=No|Translit=xīngjì|LTranslit=xīngjì
 19	遨遊	遨遊	VERB	VV	_	16	appos	_	Proper=True|SpaceAfter=No|Translit=遨yóu|LTranslit=遨yóu
 20	》	》	PUNCT	)	_	19	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
 21	創作	創作	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chuàngzuò|LTranslit=chuàngzuò
@@ -20171,7 +20171,7 @@
 15	科幻	科幻	NOUN	NN	_	16	compound	_	SpaceAfter=No|Translit=kēhuàn|LTranslit=kēhuàn
 16	電影	電影	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=diànyǐng|LTranslit=diànyǐng
 17	《	《	PUNCT	(	_	18	punct	_	SpaceAfter=No|Translit=«|LTranslit=«
-18	時兇	時兇	NOUN	NN	_	16	obl	_	Proper=True|SpaceAfter=No|Translit=shí兇|LTranslit=shí兇
+18	時兇	時兇	NOUN	NN	_	16	nmod	_	Proper=True|SpaceAfter=No|Translit=shí兇|LTranslit=shí兇
 19	獵殺	獵殺	VERB	VV	_	16	appos	_	Proper=True|SpaceAfter=No|Translit=lièshā|LTranslit=lièshā
 20	》	》	PUNCT	)	_	19	punct	_	SpaceAfter=No|Translit=»|LTranslit=»
 21	，	，	PUNCT	,	_	7	punct	_	SpaceAfter=No|Translit=,|LTranslit=,

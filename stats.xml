@@ -49,7 +49,7 @@
     <feat name="Voice" value="Pass" upos="ADP,AUX">101</feat><!-- 被 -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="44">
+  <deps unique="45">
     <dep name="acl">20</dep>
     <dep name="acl:relcl">448</dep>
     <dep name="advcl">516</dep>
@@ -80,15 +80,16 @@
     <dep name="mark:adv">22</dep>
     <dep name="mark:prt">338</dep>
     <dep name="mark:rel">626</dep>
-    <dep name="nmod">707</dep>
+    <dep name="nmod">711</dep>
+    <dep name="nmod:tmod">1</dep>
     <dep name="nsubj">1772</dep>
     <dep name="nsubj:pass">71</dep>
     <dep name="nummod">809</dep>
     <dep name="obj">1528</dep>
-    <dep name="obl">686</dep>
+    <dep name="obl">682</dep>
     <dep name="obl:agent">22</dep>
     <dep name="obl:patient">39</dep>
-    <dep name="obl:tmod">214</dep>
+    <dep name="obl:tmod">213</dep>
     <dep name="parataxis">3</dep>
     <dep name="punct">2902</dep>
     <dep name="root">1000</dep>
