@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Chinese-PUD:
-commit 336a879612fda3e75ad680aafc51fa1db2ca60bc
+commit 82827d4f15f5210b7014bbdc86e9dda303af2dd6
+Merge: 2849afd 49e46c3
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 11 18:56:46 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'zh_pud'
 Language code (from CoNLL-U file name) = 'zh'
@@ -49,8 +49,8 @@ Genres: found 2 out of 18 known.
 ...suppressing further messages regarding ERROR/SYNTAX
 [Line 9327 Sent n01134020]: [L3 WARNING fixed-without-extpos] Fixed expression '只有 在' does not have the 'ExtPos' feature
 Warnings: 1063
-SYNTAX errors: 384
-*** FAILED *** with 384 errors
+SYNTAX errors: 379
+*** FAILED *** with 379 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.27) = 0.03
